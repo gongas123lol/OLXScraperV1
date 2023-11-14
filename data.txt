@@ -1,0 +1,3446 @@
+nome:Jogos PS3 Valores e Lista na Descrição
+-preço: .css-1c0ed4l{display:inline-block;}.css-1ojrdd5{height:24px;width:24px;margin-right:8px;color:#002F34;}5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-ps3-valores-e-lista-na-descrio-IDI1XoI.html
+
+nome:PS4 Jogos (Lista e Valores na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Fernão Ferro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-jogos-lista-e-valores-na-descrio-IDHpaJA.html
+
+nome:Jogo PS4 Gran Turismo
+-preço: 15 €
+-negociavel: false
+ -zona: Estrela - Hoje às 10:55 
+-link: https://www.olx.pt//d/anuncio/jogo-ps4-gran-turismo-IDHzmqs.html
+
+nome:PS2 Jogos + 200 - Lista com os preços na descrição
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps2-jogos-200-lista-com-os-preos-na-descrio-IDHpNJu.html
+
+nome:Consola Wii com Skylanders + Jogos
+-preço: 100 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - Hoje às 10:56 
+-link: https://www.olx.pt//d/anuncio/consola-wii-com-skylanders-jogos-IDHCmSa.html
+
+nome:Shootpad  - simulador futebol PS3/2 PES FIFA.
+-preço: 20 €.css-1vxklie{color:#7F9799;font-size:12px;line-height:16px;font-weight:100;display:block;width:100%;text-align:right;}Negociável
+-negociavel: true
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - Hoje às 10:58 
+-link: https://www.olx.pt//d/anuncio/shootpad-simulador-futebol-ps3-2-pes-fifa-IDFISVj.html
+
+nome:Jogo PC Dungeon Siege 3
+-preço: 3,50 €
+-negociavel: false
+ -zona: Alvalade - Hoje às 10:58 
+-link: https://www.olx.pt//d/anuncio/jogo-pc-dungeon-siege-3-IDFukbB.html
+
+nome:Jogo PC CD-ROM Warm Up
+-preço: 3,50 €
+-negociavel: false
+ -zona: Alvalade - Hoje às 10:57 
+-link: https://www.olx.pt//d/anuncio/jogo-pc-cd-rom-warm-up-IDFEwT8.html
+
+nome:Jogos Ps2 em ótimo estado
+-preço: 4 €
+-negociavel: false
+ -zona: Santo António - Hoje às 10:54 
+-link: https://www.olx.pt//d/anuncio/jogos-ps2-em-timo-estado-IDFDOvG.html
+
+nome:Jogo PS4 Lego Avengers
+-preço: 15 €
+-negociavel: false
+ -zona: Estrela - Hoje às 10:54 
+-link: https://www.olx.pt//d/anuncio/jogo-ps4-lego-avengers-IDHzmpV.html
+
+nome:Ratchet and Clank PS4
+-preço: 7 €
+-negociavel: false
+ -zona: Parque das Nações - Hoje às 10:43 
+-link: https://www.olx.pt//d/anuncio/ratchet-and-clank-ps4-IDHzmma.html
+
+nome:Vendo jogo para PS3 Fight Night Round 3
+-preço: 7 €
+-negociavel: false
+ -zona: Campo De Ourique - Hoje às 10:33 
+-link: https://www.olx.pt//d/anuncio/vendo-jogo-para-ps3-fight-night-round-3-IDGKgcy.html
+
+nome:!!NOVO!! Comandos para a ps4 dualshock 4
+-preço: 29,99 €
+-negociavel: false
+ -zona: Parque das Nações - 11 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/novo-comandos-para-a-ps4-dualshock-4-IDHvJV2.html
+
+nome:Jogos XBOX 360 (Lista e Preços na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-xbox-360-lista-e-preos-na-descrio-IDHlXOR.html
+
+nome:Playstation 5 nova (versão de disco), SELADA, GARANTIA COMPLETA 2 ANOS
+-preço: 430 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-5-nova-verso-de-disco-selada-garantia-completa-2-anos-IDI2EUD.html
+
+nome:PS2 com comandos, comandos Buzz e muitos jogos
+-preço: 99 €
+-negociavel: false
+ -zona: Palmela - Hoje às 10:28 
+-link: https://www.olx.pt//d/anuncio/ps2-com-comandos-comandos-buzz-e-muitos-jogos-IDHzmi8.html
+
+nome:Jogo PS4 - Fifa 17
+-preço: 4 €
+-negociavel: false
+ -zona: Campo De Ourique - Hoje às 10:33 
+-link: https://www.olx.pt//d/anuncio/jogo-ps4-fifa-17-IDGwGmm.html
+
+nome:Consola Wii Nintendo
+-preço: 120 €Negociável
+-negociavel: true
+ -zona: Santo António da Charneca - Hoje às 10:52 
+-link: https://www.olx.pt//d/anuncio/consola-wii-nintendo-IDHpXhT.html
+
+nome:Casper friends around the world - jogo ps1
+-preço: 10 €
+-negociavel: false
+ -zona: Olivais - Hoje às 10:20 
+-link: https://www.olx.pt//d/anuncio/casper-friends-around-the-world-jogo-ps1-IDHgGZg.html
+
+nome:PS3 com muitos jogos e acessórios
+-preço: 149 €
+-negociavel: false
+ -zona: Palmela - Hoje às 10:23 
+-link: https://www.olx.pt//d/anuncio/ps3-com-muitos-jogos-e-acessrios-IDHzmgz.html
+
+nome:Os Sims 2 - Na Universidade -Jogo PC
+-preço: 20 €
+-negociavel: false
+ -zona: Setúbal - Hoje às 10:20 
+-link: https://www.olx.pt//d/anuncio/os-sims-2-na-universidade-jogo-pc-IDHFpS5.html
+
+nome:Cabo tv Sega Saturn
+-preço: 10 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - Hoje às 10:20 
+-link: https://www.olx.pt//d/anuncio/cabo-tv-sega-saturn-IDHVs20.html
+
+nome:Jogo PC - Sid Meiers Pirates
+-preço: 30 €
+-negociavel: false
+ -zona: Setúbal - Hoje às 10:20 
+-link: https://www.olx.pt//d/anuncio/jogo-pc-sid-meiers-pirates-IDHFqik.html
+
+nome:Playstation3 impecável
+-preço: 85 €
+-negociavel: false
+ -zona: Corroios - Hoje às 10:21 
+-link: https://www.olx.pt//d/anuncio/playstation3-impecvel-IDHIgc0.html
+
+nome:Porta cds/dvs em  acrilico e pvc rigido
+-preço: 20 €
+-negociavel: false
+ -zona: Corroios - Hoje às 10:11 
+-link: https://www.olx.pt//d/anuncio/porta-cds-dvs-em-acrilico-e-pvc-rigido-IDGDSi9.html
+
+nome:Jogo Asterix e Obelix XXXL PS4 SELADO
+-preço: 30 €Negociável
+-negociavel: true
+ -zona: Alvalade - Hoje às 10:16 
+-link: https://www.olx.pt//d/anuncio/jogo-asterix-e-obelix-xxxl-ps4-selado-IDI2P75.html
+
+nome:PS3 Jogos (Preços na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps3-jogos-preos-na-descrio-IDHdFBQ.html
+
+nome:Resident Evil 1 2 3 - PS1
+-preço: 350 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/resident-evil-1-2-3-ps1-IDHY5BI.html
+
+nome:Consola Nintendo Wii + Balance Board + 12 Jogos
+-preço: 175 €
+-negociavel: false
+ -zona: São Francisco - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-nintendo-wii-balance-board-12-jogos-IDHZM4P.html
+
+nome:Jogo Horizon Forbidden West PS4 SELADO
+-preço: 27 €Negociável
+-negociavel: true
+ -zona: Alvalade - Hoje às 10:10 
+-link: https://www.olx.pt//d/anuncio/jogo-horizon-forbidden-west-ps4-selado-IDI2P5l.html
+
+nome:PS2 Jogos / NARUTO
+-preço: 12,50 €
+-negociavel: false
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - Hoje às 10:08 
+-link: https://www.olx.pt//d/anuncio/ps2-jogos-naruto-IDGLDjo.html
+
+nome:Duas ps2 em ótimo estado
+-preço: 70 €Negociável
+-negociavel: true
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - Hoje às 10:05 
+-link: https://www.olx.pt//d/anuncio/duas-ps2-em-timo-estado-IDHyt8Z.html
+
+nome:PlayStation 4 Slim 1 TB
+-preço: 180 €Negociável
+-negociavel: true
+ -zona: Avenidas Novas - Hoje às 10:05 
+-link: https://www.olx.pt//d/anuncio/playstation-4-slim-1-tb-IDHZOZt.html
+
+nome:Consola Invader 2000 com caixa e a funcionar na perfeição.
+-preço: 140 €Negociável
+-negociavel: true
+ -zona: Lisboa - Hoje às 10:03 
+-link: https://www.olx.pt//d/anuncio/consola-invader-2000-com-caixa-e-a-funcionar-na-perfeio-IDGxYLn.html
+
+nome:Jogos de Pc Selados 3
+-preço: 3 €
+-negociavel: false
+ -zona: Palmela - Hoje às 10:00 
+-link: https://www.olx.pt//d/anuncio/jogos-de-pc-selados-3-IDC7bCf.html
+
+nome:Puff Gamer com colunas incorporadas PlayStation ou pc
+-preço: 60 €Negociável
+-negociavel: true
+ -zona: Lumiar - Hoje às 09:58 
+-link: https://www.olx.pt//d/anuncio/puff-gamer-com-colunas-incorporadas-playstation-ou-pc-IDHSyq4.html
+
+nome:Jogos de Pc Selados 2
+-preço: 3 €
+-negociavel: false
+ -zona: Palmela - Hoje às 10:01 
+-link: https://www.olx.pt//d/anuncio/jogos-de-pc-selados-2-IDC7by0.html
+
+nome:Volante e pedais Logitech usado poucas vezes
+-preço: 65 €
+-negociavel: false
+ -zona: Lumiar - Hoje às 09:56 
+-link: https://www.olx.pt//d/anuncio/volante-e-pedais-logitech-usado-poucas-vezes-IDHSyrI.html
+
+nome:Vendo Jogos PS4- FIFA 18 , FIFA 19 e FIFA 20
+-preço: 30 €Negociável
+-negociavel: true
+ -zona: Sacavém E Prior Velho - Hoje às 09:56 
+-link: https://www.olx.pt//d/anuncio/vendo-jogos-ps4-fifa-18-fifa-19-e-fifa-20-IDGnyI3.html
+
+nome:Xbox one X 1TB SSD
+-preço: 150 €Negociável
+-negociavel: true
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/xbox-one-x-1tb-ssd-IDI1PSs.html
+
+nome:Jogos PS2 (Lista e Preços na descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Fernão Ferro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-ps2-lista-e-preos-na-descrio-IDHpLyK.html
+
+nome:Playstation 5 Digital edition
+-preço: 320 €
+-negociavel: false
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - Hoje às 09:52 
+-link: https://www.olx.pt//d/anuncio/playstation-5-digital-edition-IDI2OSg.html
+
+nome:Máquina Arcade nova
+-preço: 925 €
+-negociavel: false
+ -zona: Alcochete - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/mquina-arcade-nova-IDHZh4W.html
+
+nome:Headset CN-HS1 - Canyon
+-preço: 10 €Negociável
+-negociavel: true
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - Hoje às 09:54 
+-link: https://www.olx.pt//d/anuncio/headset-cn-hs1-canyon-IDHVMQR.html
+
+nome:Jogos de desporto para Playstation 4
+-preço: 15 €
+-negociavel: false
+ -zona: Campolide - Hoje às 09:47 
+-link: https://www.olx.pt//d/anuncio/jogos-de-desporto-para-playstation-4-IDHNXzT.html
+
+nome:Jogos PS2 com Manual
+-preço: 10 €Negociável
+-negociavel: true
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - Hoje às 09:52 
+-link: https://www.olx.pt//d/anuncio/jogos-ps2-com-manual-IDHcehN.html
+
+nome:Jogos para Playstation 4
+-preço: 15 €
+-negociavel: false
+ -zona: Campolide - Hoje às 09:51 
+-link: https://www.olx.pt//d/anuncio/jogos-para-playstation-4-IDHNXB7.html
+
+nome:Jogos PSP
+-preço: 7,50 €
+-negociavel: false
+ -zona: Pinhal Novo - Hoje às 09:42 
+-link: https://www.olx.pt//d/anuncio/jogos-psp-IDFNWbk.html
+
+nome:Bomberman Land Wii
+-preço: 30 €
+-negociavel: false
+ -zona: Corroios - Hoje às 09:41 
+-link: https://www.olx.pt//d/anuncio/bomberman-land-wii-IDHxSQP.html
+
+nome:Comando Mario Wii / Wii U
+-preço: 40 €
+-negociavel: false
+ -zona: Corroios - Hoje às 09:40 
+-link: https://www.olx.pt//d/anuncio/comando-mario-wii-wii-u-IDHxSQG.html
+
+nome:Cabo USB Ubisoft Realtone NOVO + jogo Rocksmith p/ PC ou XBOX360
+-preço: 34,99 €
+-negociavel: false
+ -zona: Olivais - Hoje às 09:34 
+-link: https://www.olx.pt//d/anuncio/cabo-usb-ubisoft-realtone-novo-jogo-rocksmith-p-pc-ou-xbox360-IDFqjun.html
+
+nome:PlayStation 4 Pro
+-preço: 250 €Negociável
+-negociavel: true
+ -zona: Corroios - Hoje às 09:29 
+-link: https://www.olx.pt//d/anuncio/playstation-4-pro-IDHQwND.html
+
+nome:Jogos PS3 Valores e Lista na Descrição
+-preço: .css-1c0ed4l{display:inline-block;}.css-1ojrdd5{height:24px;width:24px;margin-right:8px;color:#002F34;}5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-ps3-valores-e-lista-na-descrio-IDI1XoI.html
+
+nome:PS2 Jogos + 200 - Lista com os preços na descrição
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps2-jogos-200-lista-com-os-preos-na-descrio-IDHpNJu.html
+
+nome:Shootpad  - simulador futebol PS3/2 PES FIFA.
+-preço: 20 €.css-1vxklie{color:#7F9799;font-size:12px;line-height:16px;font-weight:100;display:block;width:100%;text-align:right;}Negociável
+-negociavel: true
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - Hoje às 10:58 
+-link: https://www.olx.pt//d/anuncio/shootpad-simulador-futebol-ps3-2-pes-fifa-IDFISVj.html
+
+nome:Jogo PC Dungeon Siege 3
+-preço: 3,50 €
+-negociavel: false
+ -zona: Alvalade - Hoje às 10:58 
+-link: https://www.olx.pt//d/anuncio/jogo-pc-dungeon-siege-3-IDFukbB.html
+
+nome:PS4 Jogos (Lista e Valores na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Fernão Ferro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-jogos-lista-e-valores-na-descrio-IDHpaJA.html
+
+nome:Consola Wii com Skylanders + Jogos
+-preço: 100 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - Hoje às 10:56 
+-link: https://www.olx.pt//d/anuncio/consola-wii-com-skylanders-jogos-IDHCmSa.html
+
+nome:Jogo PS4 Gran Turismo
+-preço: 15 €
+-negociavel: false
+ -zona: Estrela - Hoje às 10:55 
+-link: https://www.olx.pt//d/anuncio/jogo-ps4-gran-turismo-IDHzmqs.html
+
+nome:Jogo PC CD-ROM Warm Up
+-preço: 3,50 €
+-negociavel: false
+ -zona: Alvalade - Hoje às 10:57 
+-link: https://www.olx.pt//d/anuncio/jogo-pc-cd-rom-warm-up-IDFEwT8.html
+
+nome:Ratchet and Clank PS4
+-preço: 7 €
+-negociavel: false
+ -zona: Parque das Nações - Hoje às 10:43 
+-link: https://www.olx.pt//d/anuncio/ratchet-and-clank-ps4-IDHzmma.html
+
+nome:Jogos Ps2 em ótimo estado
+-preço: 4 €
+-negociavel: false
+ -zona: Santo António - Hoje às 10:54 
+-link: https://www.olx.pt//d/anuncio/jogos-ps2-em-timo-estado-IDFDOvG.html
+
+nome:Consola Wii Nintendo
+-preço: 120 €Negociável
+-negociavel: true
+ -zona: Santo António da Charneca - Hoje às 10:52 
+-link: https://www.olx.pt//d/anuncio/consola-wii-nintendo-IDHpXhT.html
+
+nome:Vendo jogo para PS3 Fight Night Round 3
+-preço: 7 €
+-negociavel: false
+ -zona: Campo De Ourique - Hoje às 10:33 
+-link: https://www.olx.pt//d/anuncio/vendo-jogo-para-ps3-fight-night-round-3-IDGKgcy.html
+
+nome:Jogos XBOX 360 (Lista e Preços na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-xbox-360-lista-e-preos-na-descrio-IDHlXOR.html
+
+nome:Playstation 5 nova (versão de disco), SELADA, GARANTIA COMPLETA 2 ANOS
+-preço: 430 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-5-nova-verso-de-disco-selada-garantia-completa-2-anos-IDI2EUD.html
+
+nome:Jogo PS4 Lego Avengers
+-preço: 15 €
+-negociavel: false
+ -zona: Estrela - Hoje às 10:54 
+-link: https://www.olx.pt//d/anuncio/jogo-ps4-lego-avengers-IDHzmpV.html
+
+nome:!!NOVO!! Comandos para a ps4 dualshock 4
+-preço: 29,99 €
+-negociavel: false
+ -zona: Parque das Nações - 11 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/novo-comandos-para-a-ps4-dualshock-4-IDHvJV2.html
+
+nome:PS3 com muitos jogos e acessórios
+-preço: 149 €
+-negociavel: false
+ -zona: Palmela - Hoje às 10:23 
+-link: https://www.olx.pt//d/anuncio/ps3-com-muitos-jogos-e-acessrios-IDHzmgz.html
+
+nome:PS2 com comandos, comandos Buzz e muitos jogos
+-preço: 99 €
+-negociavel: false
+ -zona: Palmela - Hoje às 10:28 
+-link: https://www.olx.pt//d/anuncio/ps2-com-comandos-comandos-buzz-e-muitos-jogos-IDHzmi8.html
+
+nome:Jogo PS4 - Fifa 17
+-preço: 4 €
+-negociavel: false
+ -zona: Campo De Ourique - Hoje às 10:33 
+-link: https://www.olx.pt//d/anuncio/jogo-ps4-fifa-17-IDGwGmm.html
+
+nome:Playstation3 impecável
+-preço: 85 €
+-negociavel: false
+ -zona: Corroios - Hoje às 10:21 
+-link: https://www.olx.pt//d/anuncio/playstation3-impecvel-IDHIgc0.html
+
+nome:Cabo tv Sega Saturn
+-preço: 10 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - Hoje às 10:20 
+-link: https://www.olx.pt//d/anuncio/cabo-tv-sega-saturn-IDHVs20.html
+
+nome:Os Sims 2 - Na Universidade -Jogo PC
+-preço: 20 €
+-negociavel: false
+ -zona: Setúbal - Hoje às 10:20 
+-link: https://www.olx.pt//d/anuncio/os-sims-2-na-universidade-jogo-pc-IDHFpS5.html
+
+nome:Casper friends around the world - jogo ps1
+-preço: 10 €
+-negociavel: false
+ -zona: Olivais - Hoje às 10:20 
+-link: https://www.olx.pt//d/anuncio/casper-friends-around-the-world-jogo-ps1-IDHgGZg.html
+
+nome:Jogo Asterix e Obelix XXXL PS4 SELADO
+-preço: 30 €Negociável
+-negociavel: true
+ -zona: Alvalade - Hoje às 10:16 
+-link: https://www.olx.pt//d/anuncio/jogo-asterix-e-obelix-xxxl-ps4-selado-IDI2P75.html
+
+nome:Consola Nintendo Wii + Balance Board + 12 Jogos
+-preço: 175 €
+-negociavel: false
+ -zona: São Francisco - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-nintendo-wii-balance-board-12-jogos-IDHZM4P.html
+
+nome:Jogo PC - Sid Meiers Pirates
+-preço: 30 €
+-negociavel: false
+ -zona: Setúbal - Hoje às 10:20 
+-link: https://www.olx.pt//d/anuncio/jogo-pc-sid-meiers-pirates-IDHFqik.html
+
+nome:Porta cds/dvs em  acrilico e pvc rigido
+-preço: 20 €
+-negociavel: false
+ -zona: Corroios - Hoje às 10:11 
+-link: https://www.olx.pt//d/anuncio/porta-cds-dvs-em-acrilico-e-pvc-rigido-IDGDSi9.html
+
+nome:Jogo Horizon Forbidden West PS4 SELADO
+-preço: 27 €Negociável
+-negociavel: true
+ -zona: Alvalade - Hoje às 10:10 
+-link: https://www.olx.pt//d/anuncio/jogo-horizon-forbidden-west-ps4-selado-IDI2P5l.html
+
+nome:Resident Evil 1 2 3 - PS1
+-preço: 350 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/resident-evil-1-2-3-ps1-IDHY5BI.html
+
+nome:PlayStation 4 Slim 1 TB
+-preço: 180 €Negociável
+-negociavel: true
+ -zona: Avenidas Novas - Hoje às 10:05 
+-link: https://www.olx.pt//d/anuncio/playstation-4-slim-1-tb-IDHZOZt.html
+
+nome:PS2 Jogos / NARUTO
+-preço: 12,50 €
+-negociavel: false
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - Hoje às 10:08 
+-link: https://www.olx.pt//d/anuncio/ps2-jogos-naruto-IDGLDjo.html
+
+nome:PS3 Jogos (Preços na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps3-jogos-preos-na-descrio-IDHdFBQ.html
+
+nome:Duas ps2 em ótimo estado
+-preço: 70 €Negociável
+-negociavel: true
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - Hoje às 10:05 
+-link: https://www.olx.pt//d/anuncio/duas-ps2-em-timo-estado-IDHyt8Z.html
+
+nome:Puff Gamer com colunas incorporadas PlayStation ou pc
+-preço: 60 €Negociável
+-negociavel: true
+ -zona: Lumiar - Hoje às 09:58 
+-link: https://www.olx.pt//d/anuncio/puff-gamer-com-colunas-incorporadas-playstation-ou-pc-IDHSyq4.html
+
+nome:Consola Invader 2000 com caixa e a funcionar na perfeição.
+-preço: 140 €Negociável
+-negociavel: true
+ -zona: Lisboa - Hoje às 10:03 
+-link: https://www.olx.pt//d/anuncio/consola-invader-2000-com-caixa-e-a-funcionar-na-perfeio-IDGxYLn.html
+
+nome:Jogos de Pc Selados 3
+-preço: 3 €
+-negociavel: false
+ -zona: Palmela - Hoje às 10:00 
+-link: https://www.olx.pt//d/anuncio/jogos-de-pc-selados-3-IDC7bCf.html
+
+nome:Vendo Jogos PS4- FIFA 18 , FIFA 19 e FIFA 20
+-preço: 30 €Negociável
+-negociavel: true
+ -zona: Sacavém E Prior Velho - Hoje às 09:56 
+-link: https://www.olx.pt//d/anuncio/vendo-jogos-ps4-fifa-18-fifa-19-e-fifa-20-IDGnyI3.html
+
+nome:Volante e pedais Logitech usado poucas vezes
+-preço: 65 €
+-negociavel: false
+ -zona: Lumiar - Hoje às 09:56 
+-link: https://www.olx.pt//d/anuncio/volante-e-pedais-logitech-usado-poucas-vezes-IDHSyrI.html
+
+nome:Jogos PS2 (Lista e Preços na descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Fernão Ferro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-ps2-lista-e-preos-na-descrio-IDHpLyK.html
+
+nome:Máquina Arcade nova
+-preço: 925 €
+-negociavel: false
+ -zona: Alcochete - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/mquina-arcade-nova-IDHZh4W.html
+
+nome:Xbox one X 1TB SSD
+-preço: 150 €Negociável
+-negociavel: true
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/xbox-one-x-1tb-ssd-IDI1PSs.html
+
+nome:Jogos PS2 com Manual
+-preço: 10 €Negociável
+-negociavel: true
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - Hoje às 09:52 
+-link: https://www.olx.pt//d/anuncio/jogos-ps2-com-manual-IDHcehN.html
+
+nome:Jogos de Pc Selados 2
+-preço: 3 €
+-negociavel: false
+ -zona: Palmela - Hoje às 10:01 
+-link: https://www.olx.pt//d/anuncio/jogos-de-pc-selados-2-IDC7by0.html
+
+nome:Headset CN-HS1 - Canyon
+-preço: 10 €Negociável
+-negociavel: true
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - Hoje às 09:54 
+-link: https://www.olx.pt//d/anuncio/headset-cn-hs1-canyon-IDHVMQR.html
+
+nome:Playstation 5 Digital edition
+-preço: 320 €
+-negociavel: false
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - Hoje às 09:52 
+-link: https://www.olx.pt//d/anuncio/playstation-5-digital-edition-IDI2OSg.html
+
+nome:Jogos para Playstation 4
+-preço: 15 €
+-negociavel: false
+ -zona: Campolide - Hoje às 09:51 
+-link: https://www.olx.pt//d/anuncio/jogos-para-playstation-4-IDHNXB7.html
+
+nome:Jogos de desporto para Playstation 4
+-preço: 15 €
+-negociavel: false
+ -zona: Campolide - Hoje às 09:47 
+-link: https://www.olx.pt//d/anuncio/jogos-de-desporto-para-playstation-4-IDHNXzT.html
+
+nome:Bomberman Land Wii
+-preço: 30 €
+-negociavel: false
+ -zona: Corroios - Hoje às 09:41 
+-link: https://www.olx.pt//d/anuncio/bomberman-land-wii-IDHxSQP.html
+
+nome:Comando Mario Wii / Wii U
+-preço: 40 €
+-negociavel: false
+ -zona: Corroios - Hoje às 09:40 
+-link: https://www.olx.pt//d/anuncio/comando-mario-wii-wii-u-IDHxSQG.html
+
+nome:Jogos PSP
+-preço: 7,50 €
+-negociavel: false
+ -zona: Pinhal Novo - Hoje às 09:42 
+-link: https://www.olx.pt//d/anuncio/jogos-psp-IDFNWbk.html
+
+nome:PlayStation 4 Pro
+-preço: 250 €Negociável
+-negociavel: true
+ -zona: Corroios - Hoje às 09:29 
+-link: https://www.olx.pt//d/anuncio/playstation-4-pro-IDHQwND.html
+
+nome:Cabo USB Ubisoft Realtone NOVO + jogo Rocksmith p/ PC ou XBOX360
+-preço: 34,99 €
+-negociavel: false
+ -zona: Olivais - Hoje às 09:34 
+-link: https://www.olx.pt//d/anuncio/cabo-usb-ubisoft-realtone-novo-jogo-rocksmith-p-pc-ou-xbox360-IDFqjun.html
+
+nome:Alpha gamer. Caderia de computador
+-preço: 99 €
+-negociavel: false
+ -zona: Penha De França - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/alpha-gamer-caderia-de-computador-IDI2p7s.html
+
+nome:PS4 1TB em ótimo estado com 5 jogos e 2 comandos
+-preço: .css-1c0ed4l{display:inline-block;}.css-1ojrdd5{height:24px;width:24px;margin-right:8px;color:#002F34;}175 €
+-negociavel: false
+ -zona: Sesimbra - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-1tb-em-timo-estado-com-5-jogos-e-2-comandos-IDI2Fd7.html
+
+nome:Xbox one X 1TB SSD
+-preço: 150 €.css-1vxklie{color:#7F9799;font-size:12px;line-height:16px;font-weight:100;display:block;width:100%;text-align:right;}Negociável
+-negociavel: true
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/xbox-one-x-1tb-ssd-IDI1PSs.html
+
+nome:7 Jogos da consola Wii
+-preço: 10 €
+-negociavel: false
+ -zona: Laranjeiro E Feijó - Hoje às 09:28 
+-link: https://www.olx.pt//d/anuncio/7-jogos-da-consola-wii-IDHiaJ5.html
+
+nome:Nintendo Donkey Kong 1 de multi-tela 1982 - perfeito estado
+-preço: 119 €Negociável
+-negociavel: true
+ -zona: Sacavém E Prior Velho - Hoje às 09:28 
+-link: https://www.olx.pt//d/anuncio/nintendo-donkey-kong-1-de-multi-tela-1982-perfeito-estado-IDH3Zih.html
+
+nome:Consola Playstation 3 PS3
+-preço: 130 €Negociável
+-negociavel: true
+ -zona: São Sebastião - Hoje às 09:12 
+-link: https://www.olx.pt//d/anuncio/consola-playstation-3-ps3-IDI2OSf.html
+
+nome:PlayStation 4 + VR + Aim Controller + Jogos
+-preço: 400 €
+-negociavel: false
+ -zona: Campo De Ourique - Hoje às 09:12 
+-link: https://www.olx.pt//d/anuncio/playstation-4-vr-aim-controller-jogos-IDHVwbH.html
+
+nome:Playstation 4 pro 1 TB
+-preço: 180 €
+-negociavel: false
+ -zona: Campolide - Hoje às 09:01 
+-link: https://www.olx.pt//d/anuncio/playstation-4-pro-1-tb-IDI2OQn.html
+
+nome:Jogos PS1 Toy Story 2 e Hércules
+-preço: 5 €
+-negociavel: false
+ -zona: Fernão Ferro - Hoje às 09:10 
+-link: https://www.olx.pt//d/anuncio/jogos-ps1-toy-story-2-e-hrcules-IDI2ORP.html
+
+nome:Jogos para  Ps Vita e cartão de memória de 4gb
+-preço: 15 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - Hoje às 08:46 
+-link: https://www.olx.pt//d/anuncio/jogos-para-ps-vita-e-carto-de-memria-de-4gb-IDI2OOn.html
+
+nome:Jogo FIFA 18 - PS4
+-preço: 5 €
+-negociavel: false
+ -zona: Alcochete - Hoje às 08:42 
+-link: https://www.olx.pt//d/anuncio/jogo-fifa-18-ps4-IDHL38e.html
+
+nome:PlayStation, jogos e demos
+-preço: 135 €Negociável
+-negociavel: true
+ -zona: Palmela - Hoje às 08:33 
+-link: https://www.olx.pt//d/anuncio/playstation-jogos-e-demos-IDEPhe3.html
+
+nome:PS2 Jogos + 200 - Lista com os preços na descrição
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps2-jogos-200-lista-com-os-preos-na-descrio-IDHpNJu.html
+
+nome:PSP - Playstation Portable
+-preço: 80 €
+-negociavel: false
+ -zona: Parque das Nações - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/psp-playstation-portable-IDHAYjF.html
+
+nome:Ps4 1TB BEM ESTIMADA + 9 Jogos
+-preço: 250 €
+-negociavel: false
+ -zona: Alto Do Seixalinho, Santo André E Verderena - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-1tb-bem-estimada-9-jogos-IDHR9S6.html
+
+nome:Persona 3 Portable (Edição de Colecionador)
+-preço: 250 €
+-negociavel: false
+ -zona: Marvila - Hoje às 08:32 
+-link: https://www.olx.pt//d/anuncio/persona-3-portable-edio-de-colecionador-IDGI4xG.html
+
+nome:Jogo the last of us 2 selado a abrir
+-preço: 25 €
+-negociavel: false
+ -zona: Laranjeiro E Feijó - Hoje às 08:24 
+-link: https://www.olx.pt//d/anuncio/jogo-the-last-of-us-2-selado-a-abrir-IDHVMCB.html
+
+nome:Jogo Kitaria Fables para PS5 novo selado
+-preço: 17 €
+-negociavel: false
+ -zona: Parque das Nações - Hoje às 08:14 
+-link: https://www.olx.pt//d/anuncio/jogo-kitaria-fables-para-ps5-novo-selado-IDwREgo.html
+
+nome:Câmara HD para PS5 nova / embalada
+-preço: 45 €
+-negociavel: false
+ -zona: Marvila - Hoje às 08:14 
+-link: https://www.olx.pt//d/anuncio/cmara-hd-para-ps5-nova-embalada-IDHh057.html
+
+nome:Vendo L.A Noire GOTY ps3
+-preço: 15 €Negociável
+-negociavel: true
+ -zona: Parque das Nações - Hoje às 08:57 
+-link: https://www.olx.pt//d/anuncio/vendo-l-a-noire-goty-ps3-IDHlmL0.html
+
+nome:Jogo DRAGON BALL Bodukai 2 para PS2
+-preço: 7 €
+-negociavel: false
+ -zona: Marvila - Hoje às 08:14 
+-link: https://www.olx.pt//d/anuncio/jogo-dragon-ball-bodukai-2-para-ps2-IDGqWlV.html
+
+nome:jogo OVERWATCH para PC colecionador
+-preço: 12 €
+-negociavel: false
+ -zona: Marvila - Hoje às 08:14 
+-link: https://www.olx.pt//d/anuncio/jogo-overwatch-para-pc-colecionador-IDHgM1k.html
+
+nome:Consola PS5 Standard 1216a + 3 jogos
+-preço: 559 €Negociável
+-negociavel: true
+ -zona: Marvila - Hoje às 08:13 
+-link: https://www.olx.pt//d/anuncio/consola-ps5-standard-1216a-3-jogos-IDHrVrG.html
+
+nome:Coleção da saga GOD of WAR para PS3
+-preço: 65 €
+-negociavel: false
+ -zona: Parque das Nações - Hoje às 08:13 
+-link: https://www.olx.pt//d/anuncio/coleo-da-saga-god-of-war-para-ps3-IDE0xNG.html
+
+nome:Skylanders Swap Force - Wash Buckler + Ninja Stealth Elf + Blast Zone
+-preço: 22 €
+-negociavel: false
+ -zona: Almada - Hoje às 08:13 
+-link: https://www.olx.pt//d/anuncio/skylanders-swap-force-wash-buckler-ninja-stealth-elf-blast-zone-IDyyHt9.html
+
+nome:Nintendo Switch OLED Edição The Legend of Zelda:Tears of the Kingdom
+-preço: 380 €
+-negociavel: false
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-switch-oled-edio-the-legend-of-zeldatears-of-the-kingdom-IDHKHGG.html
+
+nome:Nintendo Game Boy Gameboy Color + Oferta 1 jogo Spiderman
+-preço: 140 €Negociável
+-negociavel: true
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-game-boy-gameboy-color-oferta-1-jogo-spiderman-IDHgSba.html
+
+nome:12x Skylanders Imaginators Mystery Treasure Chest
+-preço: 45 €
+-negociavel: false
+ -zona: Almada - Hoje às 08:13 
+-link: https://www.olx.pt//d/anuncio/12x-skylanders-imaginators-mystery-treasure-chest-IDAN2Lh.html
+
+nome:||NOVO|| Comando Nintendo switch pro
+-preço: 39,99 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/novo-comando-nintendo-switch-pro-IDHKzqv.html
+
+nome:Consola PS5 Standard 1216a + camera HD + 2 jogos
+-preço: 575 €Negociável
+-negociavel: true
+ -zona: Parque das Nações - Hoje às 08:12 
+-link: https://www.olx.pt//d/anuncio/consola-ps5-standard-1216a-camera-hd-2-jogos-IDHqsy1.html
+
+nome:Mala de transporte Deluxe Case para Nintendo Switch  NOVA
+-preço: 12 €
+-negociavel: false
+ -zona: Parque das Nações - Hoje às 08:12 
+-link: https://www.olx.pt//d/anuncio/mala-de-transporte-deluxe-case-para-nintendo-switch-nova-IDFTO5o.html
+
+nome:Consola SUP Retro Games 400 in 1
+-preço: 19 €
+-negociavel: false
+ -zona: Marvila - Hoje às 08:13 
+-link: https://www.olx.pt//d/anuncio/consola-sup-retro-games-400-in-1-IDHuRJX.html
+
+nome:Conjunto de 5 jogos usados Xbox360
+-preço: 29 €
+-negociavel: false
+ -zona: Laranjeiro E Feijó - Hoje às 08:12 
+-link: https://www.olx.pt//d/anuncio/conjunto-de-5-jogos-usados-xbox360-IDANmSc.html
+
+nome:Skylanders Trap Team - Snap Shot + Food Fight + Water Trap + Life Trap
+-preço: 18 €
+-negociavel: false
+ -zona: Almada - Hoje às 08:12 
+-link: https://www.olx.pt//d/anuncio/skylanders-trap-team-snap-shot-food-fight-water-trap-life-trap-IDyyHit.html
+
+nome:consola PS VITA 3G + 24 jogos Nova
+-preço: 179 €
+-negociavel: false
+ -zona: Parque das Nações - Hoje às 08:11 
+-link: https://www.olx.pt//d/anuncio/consola-ps-vita-3g-24-jogos-nova-IDwdrEz.html
+
+nome:PlayStation VR2 + jogo Horizon Call of the Mountain NOVO
+-preço: 495 €
+-negociavel: false
+ -zona: Parque das Nações - Hoje às 08:11 
+-link: https://www.olx.pt//d/anuncio/playstation-vr2-jogo-horizon-call-of-the-mountain-novo-IDEfa0V.html
+
+nome:jogo TOMB RAIDER para PS3
+-preço: 9 €
+-negociavel: false
+ -zona: Parque das Nações - Hoje às 08:12 
+-link: https://www.olx.pt//d/anuncio/jogo-tomb-raider-para-ps3-IDCIYKg.html
+
+nome:Jogo Immortals Fenyx Rising Ps4 / PS5 novo
+-preço: 14 €
+-negociavel: false
+ -zona: Marvila - Hoje às 08:08 
+-link: https://www.olx.pt//d/anuncio/jogo-immortals-fenyx-rising-ps4-ps5-novo-IDHgPKO.html
+
+nome:Meta quest 2 128gb c/garantia + acessórios
+-preço: 325 €Negociável
+-negociavel: true
+ -zona: Lumiar - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/meta-quest-2-128gb-c-garantia-acessrios-IDI1zQ8.html
+
+nome:Consola Nintendo Wii + Balance Board + 12 Jogos
+-preço: 175 €
+-negociavel: false
+ -zona: São Francisco - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-nintendo-wii-balance-board-12-jogos-IDHZM4P.html
+
+nome:Nintendo Switch com todos os acessórios
+-preço: 200 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-switch-com-todos-os-acessrios-IDI1Woz.html
+
+nome:Jogo FIFA 19 - PS4
+-preço: 20 €
+-negociavel: false
+ -zona: Alvalade - Hoje às 08:08 
+-link: https://www.olx.pt//d/anuncio/jogo-fifa-19-ps4-IDGimC1.html
+
+nome:Jogo Lego Batman 2  PSVITA
+-preço: 12 €
+-negociavel: false
+ -zona: Marvila - Hoje às 08:09 
+-link: https://www.olx.pt//d/anuncio/jogo-lego-batman-2-psvita-IDHpHjB.html
+
+nome:PS4 jogo FiFa19
+-preço: 10 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - Hoje às 07:44 
+-link: https://www.olx.pt//d/anuncio/ps4-jogo-fifa19-IDEv8XG.html
+
+nome:Jogo PS4 inFamous Second Son Português
+-preço: 12 €
+-negociavel: false
+ -zona: Avenidas Novas - Hoje às 06:38 
+-link: https://www.olx.pt//d/anuncio/jogo-ps4-infamous-second-son-portugus-IDGVRye.html
+
+nome:VR ONE PLUS ZEISS realidade virtual óculos
+-preço: 20 €Negociável
+-negociavel: true
+ -zona: Parque das Nações - Hoje às 04:59 
+-link: https://www.olx.pt//d/anuncio/vr-one-plus-zeiss-realidade-virtual-culos-IDHwJQM.html
+
+nome:The sims PlayStation 2
+-preço: 15 €
+-negociavel: false
+ -zona: São Domingos de Benfica - Hoje às 07:15 
+-link: https://www.olx.pt//d/anuncio/the-sims-playstation-2-IDHNXlQ.html
+
+nome:Ps4 fat 500 GB+manutenção feita+1 comando sony+capa+3 jogos+grips+cabo
+-preço: 185 €
+-negociavel: false
+ -zona: Lumiar - Hoje às 05:42 
+-link: https://www.olx.pt//d/anuncio/ps4-fat-500-gb-manuteno-feita-1-comando-sony-capa-3-jogos-grips-cabo-IDHZX0d.html
+
+nome:Call of dutty wwii ps4
+-preço: 10 €
+-negociavel: false
+ -zona: Campo De Ourique - Hoje às 03:18 
+-link: https://www.olx.pt//d/anuncio/call-of-dutty-wwii-ps4-IDGqWrl.html
+
+nome:Jogo FIFA 18 - PS4
+-preço: 10 €
+-negociavel: false
+ -zona: Alvalade - Hoje às 08:08 
+-link: https://www.olx.pt//d/anuncio/jogo-fifa-18-ps4-IDGimAA.html
+
+nome:Comando ps3 wireless Urgente
+-preço: 14,99 €
+-negociavel: false
+ -zona: Parque das Nações - Hoje às 03:18 
+-link: https://www.olx.pt//d/anuncio/comando-ps3-wireless-urgente-IDG7cPj.html
+
+nome:Nintendo 3DS Blue Version
+-preço: 150 €
+-negociavel: false
+ -zona: Parque das Nações - Hoje às 03:18 
+-link: https://www.olx.pt//d/anuncio/nintendo-3ds-blue-version-IDG5Be9.html
+
+nome:Jogos Nintendo Wii (Lista e Preços na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-nintendo-wii-lista-e-preos-na-descrio-IDHlXNS.html
+
+nome:Consola Nintendo Wii + Balance Board + 12 Jogos
+-preço: 175 €
+-negociavel: false
+ -zona: São Francisco - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-nintendo-wii-balance-board-12-jogos-IDHZM4P.html
+
+nome:Xbox one S, one terabyte + Jogo Red Dead Redemption II
+-preço: 180 €
+-negociavel: false
+ -zona: Palmela - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/xbox-one-s-one-terabyte-jogo-red-dead-redemption-ii-IDHQov8.html
+
+nome:Psp 2000 pecas novas
+-preço: 80 €
+-negociavel: false
+ -zona: Campolide - Hoje às 03:18 
+-link: https://www.olx.pt//d/anuncio/psp-2000-pecas-novas-IDGIHwb.html
+
+nome:Consola Sup Nova
+-preço: 15 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - Hoje às 02:23 
+-link: https://www.olx.pt//d/anuncio/consola-sup-nova-IDHtOaP.html
+
+nome:Nintendo 2DS Azul e Preta c/ Pokémon Sun
+-preço: 80 €.css-1vxklie{color:#7F9799;font-size:12px;line-height:16px;font-weight:100;display:block;width:100%;text-align:right;}Negociável
+-negociavel: true
+ -zona: Quinta do Conde - Hoje às 02:20 
+-link: https://www.olx.pt//d/anuncio/nintendo-2ds-azul-e-preta-c-pokmon-sun-IDHTpDu.html
+
+nome:Tenes usado em bom estado
+-preço: .css-1c0ed4l{display:inline-block;}.css-1ojrdd5{height:24px;width:24px;margin-right:8px;color:#002F34;}50 €Negociável
+-negociavel: false
+ -zona: Amora - Hoje às 01:34 
+-link: https://www.olx.pt//d/anuncio/tenes-usado-em-bom-estado-IDI2OmD.html
+
+nome:Consola 620 jogos
+-preço: 34 €
+-negociavel: false
+ -zona: São Sebastião - Hoje às 01:39 
+-link: https://www.olx.pt//d/anuncio/consola-620-jogos-IDGV6dq.html
+
+nome:Jogos Playstation 2 - Singstar (2 Micros) + Outros
+-preço: 10 €Negociável
+-negociavel: true
+ -zona: Parque das Nações - Hoje às 01:07 
+-link: https://www.olx.pt//d/anuncio/jogos-playstation-2-singstar-2-micros-outros-IDFHHk4.html
+
+nome:Pokémon Platinum
+-preço: 50 €
+-negociavel: false
+ -zona: Lumiar - Hoje às 03:09 
+-link: https://www.olx.pt//d/anuncio/pokmon-platinum-IDHGb9b.html
+
+nome:PS3 slim pteta e em bom estado e com pouco uso
+-preço: 80 €Negociável
+-negociavel: true
+ -zona: Lumiar - Hoje às 00:45 
+-link: https://www.olx.pt//d/anuncio/ps3-slim-pteta-e-em-bom-estado-e-com-pouco-uso-IDI2Oe3.html
+
+nome:Consola Retro Sup com Comando
+-preço: 20 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - Hoje às 00:45 
+-link: https://www.olx.pt//d/anuncio/consola-retro-sup-com-comando-IDHvr9l.html
+
+nome:Joystick Thrustmaster T.Flight Hotas 4 (PS4/PC)
+-preço: 50 €
+-negociavel: false
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - 19 de outubro de 2023 
+-link: https://www.olx.pt//d/anuncio/joystick-thrustmaster-t-flight-hotas-4-ps4-pc-IDHX5mP.html
+
+nome:Jogos PS3 Valores e Lista na Descrição
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-ps3-valores-e-lista-na-descrio-IDI1XoI.html
+
+nome:PS4 Jogos (Lista e Valores na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Fernão Ferro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-jogos-lista-e-valores-na-descrio-IDHpaJA.html
+
+nome:Game Box 500 in 1 Plus
+-preço: 15 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - Hoje às 01:02 
+-link: https://www.olx.pt//d/anuncio/game-box-500-in-1-plus-IDHvrb2.html
+
+nome:PS1 jogos completos PAL Mortal Kombat Trilogy - Street Fighter Alpha 3
+-preço: 80 €
+-negociavel: false
+ -zona: Penha De França - Hoje às 00:35 
+-link: https://www.olx.pt//d/anuncio/ps1-jogos-completos-pal-mortal-kombat-trilogy-street-fighter-alpha-3-IDHFxXB.html
+
+nome:Nintendo Switch V2
+-preço: 220 €Negociável
+-negociavel: true
+ -zona: Parque das Nações - Hoje às 00:30 
+-link: https://www.olx.pt//d/anuncio/nintendo-switch-v2-IDHVMoy.html
+
+nome:Comando com controlo de voz XMR-002 para MI  Xiaomi
+-preço: 6 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - Hoje às 00:31 
+-link: https://www.olx.pt//d/anuncio/comando-com-controlo-de-voz-xmr-002-para-mi-xiaomi-IDHZV98.html
+
+nome:Vários jogos para Playstation 3
+-preço: 17 €
+-negociavel: false
+ -zona: Avenidas Novas - Hoje às 00:23 
+-link: https://www.olx.pt//d/anuncio/vrios-jogos-para-playstation-3-IDGnACL.html
+
+nome:Nitendo switch 32 GB
+-preço: 300 €
+-negociavel: false
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - Hoje às 00:27 
+-link: https://www.olx.pt//d/anuncio/nitendo-switch-32-gb-IDI2apM.html
+
+nome:Acessório Tenis de Mesa Wii
+-preço: 10 €
+-negociavel: false
+ -zona: Areeiro - Hoje às 00:38 
+-link: https://www.olx.pt//d/anuncio/acessrio-tenis-de-mesa-wii-IDHrfSh.html
+
+nome:Vendo vários jogos para PSP
+-preço: 2 €
+-negociavel: false
+ -zona: Avenidas Novas - Hoje às 00:23 
+-link: https://www.olx.pt//d/anuncio/vendo-vrios-jogos-para-psp-IDGnwSu.html
+
+nome:Mario Party DS (NINTENDODS)
+-preço: 15 €
+-negociavel: false
+ -zona: Avenidas Novas - Hoje às 00:22 
+-link: https://www.olx.pt//d/anuncio/mario-party-ds-nintendods-IDGseeO.html
+
+nome:Super Mario Bros (NintendoDS)
+-preço: 15 €
+-negociavel: false
+ -zona: Avenidas Novas - Hoje às 00:22 
+-link: https://www.olx.pt//d/anuncio/super-mario-bros-nintendods-IDGsee8.html
+
+nome:PSP - Playstation Portable
+-preço: 80 €
+-negociavel: false
+ -zona: Parque das Nações - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/psp-playstation-portable-IDHAYjF.html
+
+nome:Nintendo Switch OLED
+-preço: 285 €Negociável
+-negociavel: true
+ -zona: Parque das Nações - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-switch-oled-IDI2ngV.html
+
+nome:Comando PS3 - novo/selado
+-preço: 20 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 10 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/comando-ps3-novo-selado-IDH1E6j.html
+
+nome:VideoJogo Retro Sega Saturn Dreamcast Mega Drive Nintendo64 N-Gage
+-preço: 640 €Negociável
+-negociavel: true
+ -zona: Avenidas Novas - Hoje às 00:20 
+-link: https://www.olx.pt//d/anuncio/videojogo-retro-sega-saturn-dreamcast-mega-drive-nintendo64-n-gage-IDA7pn3.html
+
+nome:Jogos para Nintendo DS
+-preço: 2 €
+-negociavel: false
+ -zona: Avenidas Novas - Hoje às 00:23 
+-link: https://www.olx.pt//d/anuncio/jogos-para-nintendo-ds-IDGnAzO.html
+
+nome:Sega Game Pack 4 in 1
+-preço: 10 €
+-negociavel: false
+ -zona: Parque das Nações - Hoje às 00:07 
+-link: https://www.olx.pt//d/anuncio/sega-game-pack-4-in-1-IDGzm28.html
+
+nome:TT Isle Of Man 2 Ride On The Edge   jogo PS4
+-preço: 20 €
+-negociavel: false
+ -zona: Campo De Ourique - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/tt-isle-of-man-2-ride-on-the-edge-jogo-ps4-IDHNX3G.html
+
+nome:F1 2022 jogo para PS4
+-preço: 30 €
+-negociavel: false
+ -zona: Campo De Ourique - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/f1-2022-jogo-para-ps4-IDHNX2W.html
+
+nome:PlayStation 4 LER ANÚNCIO
+-preço: 55 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-4-ler-anncio-IDI2NOA.html
+
+nome:The Legend of Zelda 
+Nintendo Switch
+
+Novo
+
+45€
+-preço: 42,50 €
+-negociavel: false
+ -zona: Laranjeiro E Feijó - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/the-legend-of-zelda-nintendo-switchnovo45-IDHZWHg.html
+
+nome:Tanho uma x,box360
+-preço: 100 €Negociável
+-negociavel: true
+ -zona: Lumiar - Hoje às 00:01 
+-link: https://www.olx.pt//d/anuncio/tanho-uma-x-box360-IDI2O19.html
+
+nome:Consola Sup mais comando
+-preço: 20 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-sup-mais-comando-IDHvqZU.html
+
+nome:Óculos Realidade Virtual (VR) 3D - Novos
+-preço: 10 €
+-negociavel: false
+ -zona: Corroios - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/culos-realidade-virtual-vr-3d-novos-IDCvEuf.html
+
+nome:Jogos XBOX 360 (Lista e Preços na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-xbox-360-lista-e-preos-na-descrio-IDHlXOR.html
+
+nome:PS4 1TB em ótimo estado com 5 jogos e 2 comandos
+-preço: 175 €
+-negociavel: false
+ -zona: Sesimbra - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-1tb-em-timo-estado-com-5-jogos-e-2-comandos-IDI2Fd7.html
+
+nome:Comando Samsung Cor preto
+-preço: 15 €Negociável
+-negociavel: true
+ -zona: Quinta do Conde - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/comando-samsung-cor-preto-IDHCjSv.html
+
+nome:Consola Jogos Portátil com 400 Jogos Retro
+-preço: 17,50 €
+-negociavel: false
+ -zona: Alvalade - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-jogos-porttil-com-400-jogos-retro-IDI1PGs.html
+
+nome:Gran Turismo 7
+PS5
+
+Novo
+
+45€
+-preço: 42,50 €
+-negociavel: false
+ -zona: Laranjeiro E Feijó - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/gran-turismo-7ps5novo45-IDHZWBk.html
+
+nome:Headphones MSI com microfone
+-preço: 12 €Negociável
+-negociavel: true
+ -zona: Avenidas Novas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/headphones-msi-com-microfone-IDHrfcf.html
+
+nome:Call of Duty Cold War para a PS4
+-preço: 20 €
+-negociavel: false
+ -zona: Amora - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/call-of-duty-cold-war-para-a-ps4-IDHvtUP.html
+
+nome:Panzer Dragoon Saga - Sega Saturn
+-preço: 450 €
+-negociavel: false
+ -zona: Alcochete - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/panzer-dragoon-saga-sega-saturn-IDHTpbz.html
+
+nome:Suporte NZXT Puck Preto
+-preço: 10 €
+-negociavel: false
+ -zona: Pinhal Novo - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/suporte-nzxt-puck-preto-IDHdgyf.html
+
+nome:Jogos para PS4/PS5
+-preço: 20 €Negociável
+-negociavel: true
+ -zona: Barreiro E Lavradio - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-para-ps4-ps5-IDHohhO.html
+
+nome:Sega Mega Drive Mini [Novo]
+-preço: 230 €
+-negociavel: false
+ -zona: Seixal - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/sega-mega-drive-mini-novo-IDGScdI.html
+
+nome:PS3 usada em bom estado com 6 jogos
+-preço: 150 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps3-usada-em-bom-estado-com-6-jogos-IDI2Nzu.html
+
+nome:NBA 2K24 PS5
+
+Novo
+
+55€
+-preço: 50 €
+-negociavel: false
+ -zona: Laranjeiro E Feijó - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nba-2k24-ps5novo55-IDHZWnd.html
+
+nome:Dying Light 2-Deluxe Edition-Xbox Series X
+-preço: 50 €
+-negociavel: false
+ -zona: Seixal - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/dying-light-2-deluxe-edition-xbox-series-x-IDGVHoC.html
+
+nome:Jogos So CD de Várias Consolas (Lista e Preços na Descrição)
+-preço: 2 €
+-negociavel: false
+ -zona: Fernão Ferro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-so-cd-de-vrias-consolas-lista-e-preos-na-descrio-IDI1T8f.html
+
+nome:PS2 Jogos + 200 - Lista com os preços na descrição
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps2-jogos-200-lista-com-os-preos-na-descrio-IDHpNJu.html
+
+nome:Jogos Nintendo Wii (Lista e Preços na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-nintendo-wii-lista-e-preos-na-descrio-IDHlXNS.html
+
+nome:Jogos psp FIFA e pés
+-preço: 3 €.css-1vxklie{color:#7F9799;font-size:12px;line-height:16px;font-weight:100;display:block;width:100%;text-align:right;}Negociável
+-negociavel: true
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-psp-fifa-e-ps-IDHL2rD.html
+
+nome:Legend of Zelda Tears of the Kingdom-Edição de Colecionador
+-preço: 200 €
+-negociavel: false
+ -zona: Amora - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/legend-of-zelda-tears-of-the-kingdom-edio-de-colecionador-IDHJhn2.html
+
+nome:Lego Marvel Universe in Peril para Ps Vita
+-preço: 10 €
+-negociavel: false
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/lego-marvel-universe-in-peril-para-ps-vita-IDAGWkD.html
+
+nome:BAYONETTA 3 (Nintendo Switch]
+-preço: 35 €
+-negociavel: false
+ -zona: Amora - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/bayonetta-3-nintendo-switch-IDH96xP.html
+
+nome:Minecraft para Ps Vita
+-preço: 15 €
+-negociavel: false
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/minecraft-para-ps-vita-IDA0y3L.html
+
+nome:Angry Birds Star Wars para Ps Vita
+-preço: 15 €
+-negociavel: false
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/angry-birds-star-wars-para-ps-vita-IDAs3jw.html
+
+nome:Crash Bandicoot Trilogy PS4
+-preço: 14 €Negociável
+-negociavel: true
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/crash-bandicoot-trilogy-ps4-IDHwb2T.html
+
+nome:Skylander ps3 (4 plataformas, 18 bonecos , 2 jogos)
+-preço: 5 €Negociável
+-negociavel: true
+ -zona: Penha De França - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/skylander-ps3-4-plataformas-18-bonecos-2-jogos-IDHvqFr.html
+
+nome:Marvel Ultimate Alliance para Psp
+-preço: 5 €
+-negociavel: false
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/marvel-ultimate-alliance-para-psp-IDzRGxL.html
+
+nome:Comando Wii original
+-preço: 17,50 €Negociável
+-negociavel: true
+ -zona: Lumiar - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/comando-wii-original-IDHAlvT.html
+
+nome:PS4 1TB em ótimo estado com 5 jogos e 2 comandos
+-preço: .css-1c0ed4l{display:inline-block;}.css-1ojrdd5{height:24px;width:24px;margin-right:8px;color:#002F34;}175 €
+-negociavel: false
+ -zona: Sesimbra - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-1tb-em-timo-estado-com-5-jogos-e-2-comandos-IDI2Fd7.html
+
+nome:Fifa 14 para Psp
+-preço: 10 €
+-negociavel: false
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/fifa-14-para-psp-IDAy5iL.html
+
+nome:Jogos de ps3 como novas
+-preço: 5 €
+-negociavel: false
+ -zona: Campo De Ourique - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-de-ps3-como-novas-IDHKdEH.html
+
+nome:PS4 Pro 1Tb + 2 comandos
+-preço: 200 €Negociável
+-negociavel: true
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-pro-1tb-2-comandos-IDI2i99.html
+
+nome:Bolsa para comando PS4
+-preço: 10 €Negociável
+-negociavel: true
+ -zona: São Domingos de Benfica - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/bolsa-para-comando-ps4-IDCmWuj.html
+
+nome:Jogos PS1 (Lista e Preços na Descrição)
+-preço: 4 €
+-negociavel: false
+ -zona: Quinta do Conde - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-ps1-lista-e-preos-na-descrio-IDHtlJB.html
+
+nome:Phillips CDi, 5 jogos e 1 filme, valores na descrição
+-preço: 20 €
+-negociavel: false
+ -zona: Almada - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/phillips-cdi-5-jogos-e-1-filme-valores-na-descrio-IDHQsoH.html
+
+nome:Jogos Consola Nintendo 2DS XL e 3 DS
+-preço: 20 €
+-negociavel: false
+ -zona: Alcochete - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-consola-nintendo-2ds-xl-e-3-ds-IDHFiwg.html
+
+nome:Steam Deck 64 gb + samsung evoplus 512 gb
+-preço: Troca
+-negociavel: false
+ -zona: Estrela - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/steam-deck-64-gb-samsung-evoplus-512-gb-IDI2NgC.html
+
+nome:Nintendo Switch + Mario Kart 8 Deluxe
+-preço: 200 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-switch-mario-kart-8-deluxe-IDI2Nen.html
+
+nome:Conjunto Jogos GBA - GameBoy Advance
+-preço: 350 €
+-negociavel: false
+ -zona: Alcochete - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/conjunto-jogos-gba-gameboy-advance-IDHToQQ.html
+
+nome:Final Fantasy - PSP
+-preço: 50 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/final-fantasy-psp-IDHvquh.html
+
+nome:Playstation 3 camera usada
+-preço: 5 €
+-negociavel: false
+ -zona: Marvila - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-3-camera-usada-IDHzkIc.html
+
+nome:Nintendo Switch com todos os acessórios
+-preço: 200 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-switch-com-todos-os-acessrios-IDI1Woz.html
+
+nome:Consola Jogos Portátil com 400 Jogos Retro
+-preço: 17,50 €
+-negociavel: false
+ -zona: Alvalade - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-jogos-porttil-com-400-jogos-retro-IDI1PGs.html
+
+nome:Nintendo Switch OLED Edição The Legend of Zelda:Tears of the Kingdom
+-preço: 380 €
+-negociavel: false
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-switch-oled-edio-the-legend-of-zeldatears-of-the-kingdom-IDHKHGG.html
+
+nome:Burning Rangers - Sega Saturn
+-preço: 220 €
+-negociavel: false
+ -zona: Alcochete - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/burning-rangers-sega-saturn-IDHToOA.html
+
+nome:Ps3 Slim 3004A 160gb
+-preço: 50 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps3-slim-3004a-160gb-IDHQLL5.html
+
+nome:Tv Antiga Teleton Td-12 EU
+-preço: 80 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/tv-antiga-teleton-td-12-eu-IDHTHTz.html
+
+nome:1 bateria para PSP
+-preço: 13 €
+-negociavel: false
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/1-bateria-para-psp-IDHToMQ.html
+
+nome:Dragon Force 2 - Sega Saturn
+-preço: 25 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/dragon-force-2-sega-saturn-IDHvqt7.html
+
+nome:Consola Retro Sup 500 Games C/comando 2 Jogadores 5 cores disponiveis
+-preço: 30 €
+-negociavel: false
+ -zona: Barreiro E Lavradio - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-retro-sup-500-games-c-comando-2-jogadores-5-cores-disponiveis-IDGrqEd.html
+
+nome:Mala com monitor portátil ps4/ps5
+-preço: 240 €
+-negociavel: false
+ -zona: Moscavide E Portela - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/mala-com-monitor-porttil-ps4-ps5-IDHSBoL.html
+
+nome:Jogos para Consola Sony PS2 11 jogos
+-preço: 39 €
+-negociavel: false
+ -zona: Almada - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-para-consola-sony-ps2-11-jogos-IDFOifa.html
+
+nome:Jogos para Computador 19 unidades diversos
+-preço: 34 €
+-negociavel: false
+ -zona: Almada - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-para-computador-19-unidades-diversos-IDGhYbV.html
+
+nome:Jogos PSP (Lista e Preços na Descrição)
+-preço: 4 €
+-negociavel: false
+ -zona: Fernão Ferro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-psp-lista-e-preos-na-descrio-IDHtA3U.html
+
+nome:Comando PS3 - novo/selado
+-preço: 20 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 10 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/comando-ps3-novo-selado-IDH1E6j.html
+
+nome:Jogos ps5, ps4, psVita
+-preço: 40 €Negociável
+-negociavel: true
+ -zona: Moscavide E Portela - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-ps5-ps4-psvita-IDHm40D.html
+
+nome:Pac Man micro player oficial retro arcade
+-preço: 50 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/pac-man-micro-player-oficial-retro-arcade-IDGQUwi.html
+
+nome:Teclado gaming da Mars gaming mk320
+-preço: 12,50 €Negociável
+-negociavel: true
+ -zona: Penha De França - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/teclado-gaming-da-mars-gaming-mk320-IDI2N2P.html
+
+nome:Jogos Pc GRANDE PROMOCAO 2eur e 5eur
+-preço: 2 €Negociável
+-negociavel: true
+ -zona: Laranjeiro E Feijó - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-pc-grande-promocao-2eur-e-5eur-IDFBlNC.html
+
+nome:Mega Swiv - Sega Megadrive
+-preço: 40 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/mega-swiv-sega-megadrive-IDHvqqv.html
+
+nome:Meta quest 2 128gb c/garantia + acessórios
+-preço: 325 €Negociável
+-negociavel: true
+ -zona: Lumiar - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/meta-quest-2-128gb-c-garantia-acessrios-IDI1zQ8.html
+
+nome:PS4 slim 500GB com um comando e jogos, tudo original. Playstation 4
+-preço: 170 €Negociável
+-negociavel: true
+ -zona: Santa Clara - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-slim-500gb-com-um-comando-e-jogos-tudo-original-playstation-4-IDI2MR1.html
+
+nome:Jogo PC The Sims Unleashed
+-preço: 3,50 €
+-negociavel: false
+ -zona: Avenidas Novas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-pc-the-sims-unleashed-IDGjg96.html
+
+nome:Jogos PS1 - Sony PlayStation
+-preço: 10 €
+-negociavel: false
+ -zona: Marvila - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-ps1-sony-playstation-IDHBFTQ.html
+
+nome:- 7 jogos para pc
+-preço: 5 €
+-negociavel: false
+ -zona: Pinhal Novo - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/7-jogos-para-pc-IDHlDHg.html
+
+nome:Bolsa Logic 3, transportadora PSP com todos os acessórios
+-preço: 20 €Negociável
+-negociavel: true
+ -zona: Moscavide E Portela - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/bolsa-logic-3-transportadora-psp-com-todos-os-acessrios-IDHzkrn.html
+
+nome:Beyblade  Dragoon V Rc 27MHZ Rc Lançador
+-preço: 13 €
+-negociavel: false
+ -zona: Amora - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/beyblade-dragoon-v-rc-27mhz-rc-lanador-IDGR9Xj.html
+
+nome:Nintendo Switch OLED Edição The Legend of Zelda:Tears of the Kingdom
+-preço: 380 €
+-negociavel: false
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-switch-oled-edio-the-legend-of-zeldatears-of-the-kingdom-IDHKHGG.html
+
+nome:PSP - Playstation Portable
+-preço: 80 €
+-negociavel: false
+ -zona: Parque das Nações - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/psp-playstation-portable-IDHAYjF.html
+
+nome:DVDs e. Jogos PlayStation, comando
+-preço: 1 €
+-negociavel: false
+ -zona: Fernão Ferro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/dvds-e-jogos-playstation-comando-IDHEZLW.html
+
+nome:Meta quest 2 128gb c/garantia + acessórios
+-preço: 325 €.css-1vxklie{color:#7F9799;font-size:12px;line-height:16px;font-weight:100;display:block;width:100%;text-align:right;}Negociável
+-negociavel: true
+ -zona: Lumiar - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/meta-quest-2-128gb-c-garantia-acessrios-IDI1zQ8.html
+
+nome:Jogo Resident Evil: The Darkside Chronicles (Wii) RARO
+-preço: 80 €
+-negociavel: false
+ -zona: Campo De Ourique - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-resident-evil-the-darkside-chronicles-wii-raro-IDGtfdL.html
+
+nome:Consola Retro SUP 500 Jogos  5 cores disponíveis
+-preço: 20 €
+-negociavel: false
+ -zona: Barreiro E Lavradio - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-retro-sup-500-jogos-5-cores-disponveis-IDGrqHC.html
+
+nome:NBA 2K Playgrounds 2
+-preço: 10 €Negociável
+-negociavel: true
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nba-2k-playgrounds-2-IDI2MXV.html
+
+nome:Overwatch noire skin
+-preço: 30 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/overwatch-noire-skin-IDHQAgX.html
+
+nome:Videojogos para Xbox 360 e ps4
+-preço: 2 €
+-negociavel: false
+ -zona: Quinta do Conde - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/videojogos-para-xbox-360-e-ps4-IDI2MXf.html
+
+nome:Astral Chain (Switch)
+-preço: 45 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/astral-chain-switch-IDHFxay.html
+
+nome:Assassins Creed Valhalla (PS5)
+-preço: 20 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/assassins-creed-valhalla-ps5-IDHzkj6.html
+
+nome:Comando PS3 - novo/selado
+-preço: 20 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 10 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/comando-ps3-novo-selado-IDH1E6j.html
+
+nome:Wii - Acessórios Sport, espadas e raiser para a Wii
+-preço: 10 €
+-negociavel: false
+ -zona: Moscavide E Portela - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/wii-acessrios-sport-espadas-e-raiser-para-a-wii-IDGhy1b.html
+
+nome:Nintendo Switch OLED
+-preço: 285 €Negociável
+-negociavel: true
+ -zona: Parque das Nações - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-switch-oled-IDI2ngV.html
+
+nome:Wii's como Novas (+Packs e Jogos)
+-preço: 25 €Negociável
+-negociavel: true
+ -zona: Lumiar - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/wiis-como-novas-packs-e-jogos-IDHCawq.html
+
+nome:immortals fenyx rising
+-preço: 18 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/immortals-fenyx-rising-IDHzkhT.html
+
+nome:Kirby and the forgotten land
+-preço: 38 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/kirby-and-the-forgotten-land-IDHzkie.html
+
+nome:Clive Barker's Jericho - PS3
+-preço: 9,99 €
+-negociavel: false
+ -zona: Corroios - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/clive-barkers-jericho-ps3-IDzSMJ5.html
+
+nome:Jogo da wii como novo so enterecados.
+-preço: 10 €
+-negociavel: false
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-da-wii-como-novo-so-enterecados-IDHlv0Z.html
+
+nome:[Wii] 180 Jogos nintendo Wii (PORTES GRÁTIS - Qualquer Quantidade)
+-preço: 1.300 €
+-negociavel: false
+ -zona: Penha De França - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/wii-180-jogos-nintendo-wii-portes-grtis-qualquer-quantidade-IDApVSr.html
+
+nome:Fifa 09, 10, 11 e euro 2008 ps3
+-preço: 19,99 €
+-negociavel: false
+ -zona: Almada - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/fifa-09-10-11-e-euro-2008-ps3-IDuJCPJ.html
+
+nome:Jogos Nintendo Switch
+-preço: 45 €Negociável
+-negociavel: true
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-nintendo-switch-IDI2MPJ.html
+
+nome:[PS2] 265 Jogos LUTA & PORRADA (Vendo à Unidade - Preços na Descrição)
+-preço: 950 €
+-negociavel: false
+ -zona: Penha De França - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps2-265-jogos-luta-porrada-vendo-unidade-preos-na-descrio-IDAiYE1.html
+
+nome:Vários jogos PS4 e PS5
+-preço: .css-1c0ed4l{display:inline-block;}.css-1ojrdd5{height:24px;width:24px;margin-right:8px;color:#002F34;}1.234,56 €
+-negociavel: false
+ -zona: Moita - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/vrios-jogos-ps4-e-ps5-IDI2ajJ.html
+
+nome:Retro Arcade 7777 jogos - totalmente restaurada
+-preço: 1.500 €
+-negociavel: false
+ -zona: Pinhal Novo - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/retro-arcade-7777-jogos-totalmente-restaurada-IDI1ZiJ.html
+
+nome:Jogos Nintendo Wii (Lista e Preços na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-nintendo-wii-lista-e-preos-na-descrio-IDHlXNS.html
+
+nome:Jogos PSP (Lista e Preços na Descrição)
+-preço: 4 €
+-negociavel: false
+ -zona: Fernão Ferro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-psp-lista-e-preos-na-descrio-IDHtA3U.html
+
+nome:Figuras e consola wii
+-preço: 20 €
+-negociavel: false
+ -zona: Pinhal Novo - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/figuras-e-consola-wii-IDGb2IR.html
+
+nome:Consola WII Em bom estado
+-preço: 30 €
+-negociavel: false
+ -zona: Quinta do Anjo - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-wii-em-bom-estado-IDGVR5d.html
+
+nome:Soundstation para Playstation 2 - Nova
+-preço: 25 €Negociável
+-negociavel: true
+ -zona: Areeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/soundstation-para-playstation-2-nova-IDH3hqS.html
+
+nome:Gamepad sem fios TRUST - GXT 545 YULA
+-preço: 35 €Negociável
+-negociavel: true
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/gamepad-sem-fios-trust-gxt-545-yula-IDHL1F4.html
+
+nome:XBOX One + 5 jogos + 2 comandos
+-preço: 170 €
+-negociavel: false
+ -zona: Arroios - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/xbox-one-5-jogos-2-comandos-IDHlb8t.html
+
+nome:D-Day – Normandie 1944 PC-ROM
+-preço: 5 €
+-negociavel: false
+ -zona: Campo De Ourique - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/d-day-normandie-1944-pc-rom-IDHTofF.html
+
+nome:Oculos VR para telemovel
+-preço: 10 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/oculos-vr-para-telemovel-IDHd2Hn.html
+
+nome:Sengan Kagura Estival versus - Jogo VITA
+-preço: 100 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/sengan-kagura-estival-versus-jogo-vita-IDI2Muo.html
+
+nome:Rato gaming rosa novo
+-preço: 20 €
+-negociavel: false
+ -zona: Marvila - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/rato-gaming-rosa-novo-IDI2MEO.html
+
+nome:Persona 3 portable PSP
+-preço: 150 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/persona-3-portable-psp-IDI2Mth.html
+
+nome:Nintendo Wii + Wii balance + 3 jogos
+-preço: 80 €
+-negociavel: false
+ -zona: Arroios - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-wii-wii-balance-3-jogos-IDHFvKc.html
+
+nome:Nintendo Game Boy Gameboy Color + Oferta 1 jogo Spiderman
+-preço: 140 €Negociável
+-negociavel: true
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-game-boy-gameboy-color-oferta-1-jogo-spiderman-IDHgSba.html
+
+nome:Consola Nintendo Wii + Balance Board + 12 Jogos
+-preço: 175 €
+-negociavel: false
+ -zona: São Francisco - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-nintendo-wii-balance-board-12-jogos-IDHZM4P.html
+
+nome:PS4 Pro 1Tb + 2 comandos
+-preço: 200 €Negociável
+-negociavel: true
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-pro-1tb-2-comandos-IDI2i99.html
+
+nome:Jogo Dragonball Fighter Z Nintendo Switch
+-preço: 20 €
+-negociavel: false
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-dragonball-fighter-z-nintendo-switch-IDHFvDl.html
+
+nome:Vários artigos electrónicos-lote completo
+-preço: 30 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/vrios-artigos-electrnicos-lote-completo-IDI2Mjs.html
+
+nome:Ps3 + 1 comando + 16 jogos
+-preço: 220 €Negociável
+-negociavel: true
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps3-1-comando-16-jogos-IDI2Mho.html
+
+nome:PS4 Pro 1Tb + 2 comandos
+-preço: 200 €Negociável
+-negociavel: true
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-pro-1tb-2-comandos-IDI2i99.html
+
+nome:Consola XBOX Series X 1TB SSD Como Nova
+-preço: 500 €
+-negociavel: false
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-xbox-series-x-1tb-ssd-como-nova-IDHlhTV.html
+
+nome:Call of Duty MW2
+-preço: 30 €
+-negociavel: false
+ -zona: Campo De Ourique - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/call-of-duty-mw2-IDI2MiI.html
+
+nome:NBA 2K22 para PS5 - Novo/Selado
+-preço: 10 €
+-negociavel: false
+ -zona: Avenidas Novas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nba-2k22-para-ps5-novo-selado-IDHgwCG.html
+
+nome:Oculus Rift S VR
+-preço: 220 €Negociável
+-negociavel: true
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/oculus-rift-s-vr-IDHTnUz.html
+
+nome:LEGO Batman 2: DC Super Heroes (Nintendo 3DS)
+-preço: 8 €
+-negociavel: false
+ -zona: Avenidas Novas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/lego-batman-2-dc-super-heroes-nintendo-3ds-IDGuZ4Q.html
+
+nome:Consola Playstation PS1 SCPH-5552 Value Pack em caixa
+-preço: 170 €
+-negociavel: false
+ -zona: Avenidas Novas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-playstation-ps1-scph-5552-value-pack-em-caixa-IDHzTex.html
+
+nome:Manual original Playstation PS1 SCPH-7502
+-preço: 10 €
+-negociavel: false
+ -zona: Avenidas Novas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/manual-original-playstation-ps1-scph-7502-IDHZYWr.html
+
+nome:Nintendo Game Boy Gameboy Color + Oferta 1 jogo Spiderman
+-preço: 140 €.css-1vxklie{color:#7F9799;font-size:12px;line-height:16px;font-weight:100;display:block;width:100%;text-align:right;}Negociável
+-negociavel: true
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-game-boy-gameboy-color-oferta-1-jogo-spiderman-IDHgSba.html
+
+nome:PS4 Jogos (Lista e Valores na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Fernão Ferro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-jogos-lista-e-valores-na-descrio-IDHpaJA.html
+
+nome:Jogos XBOX 360 (Lista e Preços na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-xbox-360-lista-e-preos-na-descrio-IDHlXOR.html
+
+nome:Jogo Playstation PS1 PSX PSOne Ace Combat 2 PT
+-preço: .css-1c0ed4l{display:inline-block;}.css-1ojrdd5{height:24px;width:24px;margin-right:8px;color:#002F34;}22 €
+-negociavel: false
+ -zona: Avenidas Novas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-playstation-ps1-psx-psone-ace-combat-2-pt-IDHZYK2.html
+
+nome:Jogo Playstation 3 PS3 United Fighting Championship UFC Trainer
+-preço: 8 €
+-negociavel: false
+ -zona: Avenidas Novas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-playstation-3-ps3-united-fighting-championship-ufc-trainer-IDHqVgu.html
+
+nome:Lote 8 Demos Playstation PS1 PSX PSOne
+-preço: 15 €
+-negociavel: false
+ -zona: Avenidas Novas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/lote-8-demos-playstation-ps1-psx-psone-IDHsmPX.html
+
+nome:Playstation PS1 PS2 PS3 cabo original de TV RCA
+-preço: 5 €
+-negociavel: false
+ -zona: Avenidas Novas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-ps1-ps2-ps3-cabo-original-de-tv-rca-IDHAK2E.html
+
+nome:Jogo Watch Dogs Legion Ps4
+-preço: 15 €
+-negociavel: false
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-watch-dogs-legion-ps4-IDHNGS9.html
+
+nome:Consola Nintendo Wii + Balance Board + 12 Jogos
+-preço: 175 €
+-negociavel: false
+ -zona: São Francisco - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-nintendo-wii-balance-board-12-jogos-IDHZM4P.html
+
+nome:Nintendo Super Famicom (SNES Japonesa) Classic Mini - Versão Japonesa
+-preço: 120 €Negociável
+-negociavel: true
+ -zona: Arroios - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-super-famicom-snes-japonesa-classic-mini-verso-japonesa-IDHL17k.html
+
+nome:Jogo Sims Bustin'out para Xbox
+-preço: 5 €
+-negociavel: false
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-sims-bustinout-para-xbox-IDAf0YL.html
+
+nome:Jogo Call of Duty United Expasion 2004
+-preço: 7 €
+-negociavel: false
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-call-of-duty-united-expasion-2004-IDHUylq.html
+
+nome:Joystick Thrustmaster T.Flight Hotas 4 (PS4/PC)
+-preço: 50 €
+-negociavel: false
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - 19 de outubro de 2023 
+-link: https://www.olx.pt//d/anuncio/joystick-thrustmaster-t-flight-hotas-4-ps4-pc-IDHX5mP.html
+
+nome:||NOVO|| Comando Nintendo switch pro
+-preço: 39,99 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/novo-comando-nintendo-switch-pro-IDHKzqv.html
+
+nome:Playstation 5 nova (versão de disco), SELADA, GARANTIA COMPLETA 2 ANOS
+-preço: 430 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-5-nova-verso-de-disco-selada-garantia-completa-2-anos-IDI2EUD.html
+
+nome:Jogo Xbox The Sims
+-preço: 5 €
+-negociavel: false
+ -zona: Lisboa - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-xbox-the-sims-IDAii0P.html
+
+nome:God of Ward Remasterizado PS4
+-preço: 10 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/god-of-ward-remasterizado-ps4-IDHrcsS.html
+
+nome:PS2 - King Fighters - Saint Seiya The Hades - Sword of the Samurai
+-preço: 70 €
+-negociavel: false
+ -zona: Santo António da Charneca - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps2-king-fighters-saint-seiya-the-hades-sword-of-the-samurai-IDI2LRE.html
+
+nome:Razer - Ornata Chroma - Teclado
+-preço: 50 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/razer-ornata-chroma-teclado-IDHZT6c.html
+
+nome:XBOX SERIES S como nova
+-preço: 200 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/xbox-series-s-como-nova-IDI2LYC.html
+
+nome:Nintendo DSi +carregador + dois jogos
+-preço: 60 €
+-negociavel: false
+ -zona: Penha De França - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-dsi-carregador-dois-jogos-IDHVJmy.html
+
+nome:Vendo jogo PS5 MW3
+-preço: 65 €
+-negociavel: false
+ -zona: Corroios - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/vendo-jogo-ps5-mw3-IDI2LIz.html
+
+nome:Discos Disney Infinity
+-preço: 4 €
+-negociavel: false
+ -zona: Avenidas Novas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/discos-disney-infinity-IDC6txg.html
+
+nome:Battletoads Sega Game Gear  (Jogo Raro)
+-preço: 250 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/battletoads-sega-game-gear-jogo-raro-IDHGRLF.html
+
+nome:Jogo Crisis Core: Final Fantasy VII Reunion Nintendo Switch
+-preço: 25 €
+-negociavel: false
+ -zona: Marvila - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-crisis-core-final-fantasy-vii-reunion-nintendo-switch-IDI2LGj.html
+
+nome:Teclado Gaming | Razer Cynosa Chroma
+-preço: 30 €Negociável
+-negociavel: true
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/teclado-gaming-razer-cynosa-chroma-IDHZJvo.html
+
+nome:PS2 Jogos + 200 - Lista com os preços na descrição
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps2-jogos-200-lista-com-os-preos-na-descrio-IDHpNJu.html
+
+nome:Vários jogos World Warcraft
+-preço: 20 €
+-negociavel: false
+ -zona: Pinhal Novo - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/vrios-jogos-world-warcraft-IDHlCFc.html
+
+nome:Jogo ps5 RATCHET Clank Rift apart
+-preço: 60 €
+-negociavel: false
+ -zona: Marvila - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-ps5-ratchet-clank-rift-apart-IDHZSVR.html
+
+nome:Jogos da Mega drive - Sonic - The Hedgehog 1 e 2
+-preço: 20 €
+-negociavel: false
+ -zona: Pinhal Novo - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-da-mega-drive-sonic-the-hedgehog-1-e-2-IDHLp7s.html
+
+nome:PS3 Jogos (Preços na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps3-jogos-preos-na-descrio-IDHdFBQ.html
+
+nome:Ps4 Slim 500gb - oferta um jogo
+-preço: 170 €Negociável
+-negociavel: true
+ -zona: Amora - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-slim-500gb-oferta-um-jogo-IDHVIY5.html
+
+nome:Spider-man miles morales ps5
+-preço: 50 €Negociável
+-negociavel: true
+ -zona: Alto Do Seixalinho, Santo André E Verderena - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/spider-man-miles-morales-ps5-IDH3h0X.html
+
+nome:Carregador Nintendo Ds 2Ds 3ds Original
+-preço: 12 €Negociável
+-negociavel: true
+ -zona: Alto Do Seixalinho, Santo André E Verderena - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/carregador-nintendo-ds-2ds-3ds-original-IDHFwHz.html
+
+nome:Ps4 500gb em bom estado
+-preço: 350 €Negociável
+-negociavel: true
+ -zona: Marvila - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-500gb-em-bom-estado-IDHTngx.html
+
+nome:Jogos PS4 e PSVR
+-preço: 5 €
+-negociavel: false
+ -zona: Palmela - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-ps4-e-psvr-IDHziEe.html
+
+nome:Coleção  jogos fifa
+-preço: 3 €
+-negociavel: false
+ -zona: Fernão Ferro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/coleo-jogos-fifa-IDGjtaU.html
+
+nome:Consola japonêsa Nintendo DSi
+-preço: 40 €
+-negociavel: false
+ -zona: Quinta do Anjo - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-japonsa-nintendo-dsi-IDHNW2U.html
+
+nome:Fanatec clubsport v2.5
+-preço: 250 €Negociável
+-negociavel: true
+ -zona: Amora - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/fanatec-clubsport-v2-5-IDHZG4J.html
+
+nome:Nintendo Switch OLED Edição The Legend of Zelda:Tears of the Kingdom
+-preço: 380 €
+-negociavel: false
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-switch-oled-edio-the-legend-of-zeldatears-of-the-kingdom-IDHKHGG.html
+
+nome:LOTE PS3 Jogos como novos
+-preço: 50 €Negociável
+-negociavel: true
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/lote-ps3-jogos-como-novos-IDHTmFC.html
+
+nome:Colecao jogos de futebol FIFA
+-preço: 3 €
+-negociavel: false
+ -zona: Fernão Ferro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/colecao-jogos-de-futebol-fifa-IDGjtc3.html
+
+nome:Xbox one X 1TB SSD
+-preço: 150 €Negociável
+-negociavel: true
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/xbox-one-x-1tb-ssd-IDI1PSs.html
+
+nome:Wireless Gaming Headset AUDEZE Penrose X (NOVO - Garantia Out 2024)
+-preço: 225 €
+-negociavel: false
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/wireless-gaming-headset-audeze-penrose-x-novo-garantia-out-2024-IDHzicC.html
+
+nome:Teclado RAZER Huntsman V2 Analog US NOVO!
+-preço: 125 €Negociável
+-negociavel: true
+ -zona: Alto Do Seixalinho, Santo André E Verderena - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/teclado-razer-huntsman-v2-analog-us-novo-IDHChry.html
+
+nome:Vendo conjunto de volante para PS 3 e PS4 com toda a estrutura
+-preço: 150 €Negociável
+-negociavel: true
+ -zona: Sarilhos Grandes - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/vendo-conjunto-de-volante-para-ps-3-e-ps4-com-toda-a-estrutura-IDI2KTa.html
+
+nome:Mouse sem fio para jogos Trust Ybar GXT 923W [Novo]
+-preço: 16 €Negociável
+-negociavel: true
+ -zona: Alhos Vedros - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/mouse-sem-fio-para-jogos-trust-ybar-gxt-923w-novo-IDHL0cR.html
+
+nome:PC Sonic 3D Selado
+-preço: 3 €
+-negociavel: false
+ -zona: Lisboa - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/pc-sonic-3d-selado-IDHiO9x.html
+
+nome:Cabo scart RGB para Nintendo gamecube
+-preço: 15 €
+-negociavel: false
+ -zona: Beato - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/cabo-scart-rgb-para-nintendo-gamecube-IDHTmw3.html
+
+nome:F1 Circus MD - Mega Drive Japonês
+-preço: 15 €
+-negociavel: false
+ -zona: Lisboa - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/f1-circus-md-mega-drive-japons-IDH1Uxc.html
+
+nome:[Playstation2] Worms 3D
+-preço: 7 €
+-negociavel: false
+ -zona: Fernão Ferro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation2-worms-3d-IDHEEwt.html
+
+nome:PS2 Donald Duck - Quack Attack
+-preço: 4 €
+-negociavel: false
+ -zona: Lisboa - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps2-donald-duck-quack-attack-IDHiOgw.html
+
+nome:!!NOVO!! Comandos para a ps4 dualshock 4
+-preço: 29,99 €
+-negociavel: false
+ -zona: Parque das Nações - 11 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/novo-comandos-para-a-ps4-dualshock-4-IDHvJV2.html
+
+nome:Wii's como Novas (+Packs e Jogos)
+-preço: 25 €.css-1vxklie{color:#7F9799;font-size:12px;line-height:16px;font-weight:100;display:block;width:100%;text-align:right;}Negociável
+-negociavel: true
+ -zona: Lumiar - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/wiis-como-novas-packs-e-jogos-IDHCawq.html
+
+nome:PlayStation portátil
+-preço: 45 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-porttil-IDHTmib.html
+
+nome:Jogos PS2 (Lista e Preços na descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Fernão Ferro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-ps2-lista-e-preos-na-descrio-IDHpLyK.html
+
+nome:Xbox denies s digetal como nova
+-preço: 190 €
+-negociavel: false
+ -zona: Alcochete - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/xbox-denies-s-digetal-como-nova-IDI2KMX.html
+
+nome:Teclado Gaming | Razer Cynosa Chroma
+-preço: 30 €Negociável
+-negociavel: true
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/teclado-gaming-razer-cynosa-chroma-IDHZJvo.html
+
+nome:Ps4 1TB Slim “TROCO”
+-preço: .css-1c0ed4l{display:inline-block;}.css-1ojrdd5{height:24px;width:24px;margin-right:8px;color:#002F34;}150 €Negociável
+-negociavel: false
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-1tb-slim-troco-IDI2KMy.html
+
+nome:Playstation 3: Battlefield 4
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Anjo - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-3-battlefield-4-IDHQyd9.html
+
+nome:Nintendo Switch V1 Cinza
+-preço: 190 €Negociável
+-negociavel: true
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-switch-v1-cinza-IDI2KL5.html
+
+nome:XBOX 360: Manuais
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Anjo - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/xbox-360-manuais-IDHQy8J.html
+
+nome:Need for Speed Most Wanted + Crisis PC
+-preço: 10 €
+-negociavel: false
+ -zona: Lisboa - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/need-for-speed-most-wanted-crisis-pc-IDHZS0G.html
+
+nome:PS5 nova na garantia e com apenas um mes
+-preço: 330 €
+-negociavel: false
+ -zona: Gâmbia-Pontes-Alto Guerra - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps5-nova-na-garantia-e-com-apenas-um-mes-IDI2K9W.html
+
+nome:Jogos XBOX 360 (Lista e Preços na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-xbox-360-lista-e-preos-na-descrio-IDHlXOR.html
+
+nome:Xbox one S, one terabyte + Jogo Red Dead Redemption II
+-preço: 180 €
+-negociavel: false
+ -zona: Palmela - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/xbox-one-s-one-terabyte-jogo-red-dead-redemption-ii-IDHQov8.html
+
+nome:Xbox One S + Jogos + Comandos com bateria + Base
+-preço: 200 €Negociável
+-negociavel: true
+ -zona: São Sebastião - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/xbox-one-s-jogos-comandos-com-bateria-base-IDHFwb1.html
+
+nome:PS4 Jogos (Lista e Valores na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Fernão Ferro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-jogos-lista-e-valores-na-descrio-IDHpaJA.html
+
+nome:VR Meta Quest Pro 256GB
+-preço: 1.250 €Negociável
+-negociavel: true
+ -zona: Estrela - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/vr-meta-quest-pro-256gb-IDHIX8h.html
+
+nome:MadRics Playstation 2 Controller
+-preço: 15 €
+-negociavel: false
+ -zona: Avenidas Novas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/madrics-playstation-2-controller-IDHBRBS.html
+
+nome:Jogo Red Dead Redemption II Ps4
+-preço: 20 €
+-negociavel: false
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-red-dead-redemption-ii-ps4-IDHljw0.html
+
+nome:Jogo Back 4 blood novo
+-preço: 13,99 €
+-negociavel: false
+ -zona: Palmela - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-back-4-blood-novo-IDHTm6N.html
+
+nome:Jogo Dying Light 2: Stay Human Ps5
+-preço: 25 €
+-negociavel: false
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-dying-light-2-stay-human-ps5-IDHljDz.html
+
+nome:PlayStation 4 1TB+2Comandos+Red Dead Redemption 2+Farcry5
+-preço: 200 €Negociável
+-negociavel: true
+ -zona: Amora - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-4-1tb-2comandos-red-dead-redemption-2-farcry5-IDHFw9j.html
+
+nome:[PS2] Madagascar - Platinum Edition - Portes Grátis!
+-preço: 6,99 €Negociável
+-negociavel: true
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps2-madagascar-platinum-edition-portes-grtis-IDG6Tyc.html
+
+nome:Consola Wii com 2 comandos, acessórios e 6 jogos
+-preço: 65 €Negociável
+-negociavel: true
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-wii-com-2-comandos-acessrios-e-6-jogos-IDHVI1U.html
+
+nome:[PS2] Casper And The Ghostly Trio - Portes Grátis!
+-preço: 6,99 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps2-casper-and-the-ghostly-trio-portes-grtis-IDG6Tj9.html
+
+nome:Consola Jogos Portátil com 400 Jogos Retro
+-preço: 17,50 €
+-negociavel: false
+ -zona: Alvalade - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-jogos-porttil-com-400-jogos-retro-IDI1PGs.html
+
+nome:Joystick Thrustmaster T.Flight Hotas 4 (PS4/PC)
+-preço: 50 €
+-negociavel: false
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - 19 de outubro de 2023 
+-link: https://www.olx.pt//d/anuncio/joystick-thrustmaster-t-flight-hotas-4-ps4-pc-IDHX5mP.html
+
+nome:Jogos PC Vintage X GAMES - 12 jogos de 1997 MUITO RARO
+-preço: 3 €
+-negociavel: false
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-pc-vintage-x-games-12-jogos-de-1997-muito-raro-IDC2idu.html
+
+nome:Alpha gamer. Caderia de computador
+-preço: 99 €
+-negociavel: false
+ -zona: Penha De França - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/alpha-gamer-caderia-de-computador-IDI2p7s.html
+
+nome:Playstation 2: Caixas, Capas e Manuais
+-preço: 4 €
+-negociavel: false
+ -zona: Quinta do Anjo - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-2-caixas-capas-e-manuais-IDHQxU6.html
+
+nome:Jogo PSP - Wall-E
+-preço: 5 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-psp-wall-e-IDGUVRX.html
+
+nome:Consolas. ps ...
+-preço: 20 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consolas-ps-IDHl6sa.html
+
+nome:FIFA 95 Mega Drive
+-preço: 15 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/fifa-95-mega-drive-IDGbkU1.html
+
+nome:3 Jogos PS3 / Playstation 3
+-preço: 10 €
+-negociavel: false
+ -zona: Lisboa - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/3-jogos-ps3-playstation-3-IDE3zop.html
+
+nome:God of War Ragnarok
+-preço: 55 €
+-negociavel: false
+ -zona: Arroios - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/god-of-war-ragnarok-IDI2Kg7.html
+
+nome:PlayStation 4 Consola slim Ps4 + 2 comandos oficiais + 4 jogos
+-preço: 200 €
+-negociavel: false
+ -zona: Amora - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-4-consola-slim-ps4-2-comandos-oficiais-4-jogos-IDHPQjV.html
+
+nome:Jogo nba 2k21 xbox one novo
+-preço: 19 €
+-negociavel: false
+ -zona: São Domingos de Benfica - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-nba-2k21-xbox-one-novo-IDGEmEO.html
+
+nome:Campainha I Love my Bike
+-preço: 3,50 €
+-negociavel: false
+ -zona: Olivais - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/campainha-i-love-my-bike-IDzHKZh.html
+
+nome:Jogos PS3 (Lista e Valores na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-ps3-lista-e-valores-na-descrio-IDHCYPe.html
+
+nome:PSP - Playstation Portable
+-preço: 80 €
+-negociavel: false
+ -zona: Parque das Nações - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/psp-playstation-portable-IDHAYjF.html
+
+nome:||NOVO|| Comando Nintendo switch pro
+-preço: 39,99 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/novo-comando-nintendo-switch-pro-IDHKzqv.html
+
+nome:Jogos para PSP portátil 5€ qualquer jogo
+-preço: 5 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-para-psp-porttil-5-qualquer-jogo-IDFO5M9.html
+
+nome:KNACK PS4 - Mais jogos na descrição
+-preço: 10 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/knack-ps4-mais-jogos-na-descrio-IDI2KbD.html
+
+nome:Jogo World Warcraft
+-preço: 5 €
+-negociavel: false
+ -zona: Amora - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-world-warcraft-IDHraSl.html
+
+nome:Vendo Jogos PS5 Novos e Usados
+-preço: 30 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/vendo-jogos-ps5-novos-e-usados-IDHDbd2.html
+
+nome:Jogos PC Baratos (10€ = 5 Jogos)
+-preço: 2 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-pc-baratos-10-5-jogos-IDGZsxy.html
+
+nome:House of Houses - PS4 jogo
+-preço: 15 €
+-negociavel: false
+ -zona: Arroios - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/house-of-houses-ps4-jogo-IDHVHJJ.html
+
+nome:Fanatec clubsport v2.5
+-preço: 250 €Negociável
+-negociavel: true
+ -zona: Amora - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/fanatec-clubsport-v2-5-IDHZG4J.html
+
+nome:Playstation 4 grey uncharted
+-preço: 155 €
+-negociavel: false
+ -zona: Beato - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-4-grey-uncharted-IDHQxGs.html
+
+nome:Adaptador HDMI Wii
+-preço: 10 €
+-negociavel: false
+ -zona: Corroios - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/adaptador-hdmi-wii-IDHFuzo.html
+
+nome:Spyro Enter the Dragonfly PlayStation 2 PS2
+-preço: 20 €
+-negociavel: false
+ -zona: São Domingos de Benfica - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/spyro-enter-the-dragonfly-playstation-2-ps2-IDHNTWp.html
+
+nome:PlayStation 4 (PS4) - em excelente estado
+-preço: 150 €Negociável
+-negociavel: true
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-4-ps4-em-excelente-estado-IDI2K1A.html
+
+nome:Battletoads Sega Game Gear  (Jogo Raro)
+-preço: 250 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/battletoads-sega-game-gear-jogo-raro-IDHGRLF.html
+
+nome:Ps4 1TB BEM ESTIMADA + 9 Jogos
+-preço: 250 €
+-negociavel: false
+ -zona: Alto Do Seixalinho, Santo André E Verderena - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-1tb-bem-estimada-9-jogos-IDHR9S6.html
+
+nome:Comando PS3 - novo/selado
+-preço: 20 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 10 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/comando-ps3-novo-selado-IDH1E6j.html
+
+nome:PlayStation 4 (PS4) - em excelente estado
+-preço: 150 €.css-1vxklie{color:#7F9799;font-size:12px;line-height:16px;font-weight:100;display:block;width:100%;text-align:right;}Negociável
+-negociavel: true
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-4-ps4-em-excelente-estado-IDI2K1A.html
+
+nome:Logitech G29 Volante + Pedais
+-preço: 200 €
+-negociavel: false
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/logitech-g29-volante-pedais-IDI2K0q.html
+
+nome:Videojogos PS2 (à unidade)
+-preço: 15 €Negociável
+-negociavel: true
+ -zona: São Vicente - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/videojogos-ps2-unidade-IDI2JZ8.html
+
+nome:PS Vita 1000 - desbloqueada (PlayStation Vita)
+-preço: 150 €Negociável
+-negociavel: true
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps-vita-1000-desbloqueada-playstation-vita-IDI2JZo.html
+
+nome:PlayStation Portable (PSP-2004) + Caixa + Manuais + Acessórios
+-preço: 110 €Negociável
+-negociavel: true
+ -zona: Campolide - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-portable-psp-2004-caixa-manuais-acessrios-IDHtQTl.html
+
+nome:Jogo pc  ''Total Club Management 2005
+-preço: 5 €
+-negociavel: false
+ -zona: Avenidas Novas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-pc-total-club-management-2005-IDHobB8.html
+
+nome:Jogo PC  'Cibilization IV'
+-preço: 5 €
+-negociavel: false
+ -zona: Avenidas Novas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-pc-cibilization-iv-IDHobDs.html
+
+nome:The Getaway PS2 PlayStation 2
+-preço: 10 €
+-negociavel: false
+ -zona: São Domingos de Benfica - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/the-getaway-ps2-playstation-2-IDHNTPu.html
+
+nome:Consola Nintendo Wii + Balance Board + 12 Jogos
+-preço: 175 €
+-negociavel: false
+ -zona: São Francisco - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-nintendo-wii-balance-board-12-jogos-IDHZM4P.html
+
+nome:PSP-E1004 CB Street preta
+-preço: 65 €
+-negociavel: false
+ -zona: Fernão Ferro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/psp-e1004-cb-street-preta-IDHWA5j.html
+
+nome:Joystick Thrustmaster T.Flight Hotas 4 (PS4/PC)
+-preço: 50 €
+-negociavel: false
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - 19 de outubro de 2023 
+-link: https://www.olx.pt//d/anuncio/joystick-thrustmaster-t-flight-hotas-4-ps4-pc-IDHX5mP.html
+
+nome:Grand Theft Auto - Vice City PS2
+-preço: 15 €
+-negociavel: false
+ -zona: São Domingos de Benfica - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/grand-theft-auto-vice-city-ps2-IDHNTJA.html
+
+nome:Vader Immortal ps4
+-preço: 20 €
+-negociavel: false
+ -zona: Alcochete - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/vader-immortal-ps4-IDHvn9B.html
+
+nome:PSP - Playstation Portable
+-preço: 80 €
+-negociavel: false
+ -zona: Parque das Nações - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/psp-playstation-portable-IDHAYjF.html
+
+nome:Câmera Eye Toy + Jogos - PlayStation 2
+-preço: .css-1c0ed4l{display:inline-block;}.css-1ojrdd5{height:24px;width:24px;margin-right:8px;color:#002F34;}15 €
+-negociavel: false
+ -zona: Olivais - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/cmera-eye-toy-jogos-playstation-2-IDHZRaE.html
+
+nome:PSP 3000 desbloqueada
+-preço: 95 €Negociável
+-negociavel: true
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/psp-3000-desbloqueada-IDI2JXs.html
+
+nome:Pokemon 3Ds jogos
+-preço: 60 €Negociável
+-negociavel: true
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/pokemon-3ds-jogos-IDHCglk.html
+
+nome:Suportes para volante + pedais para Sim Racing - NOVOS (embalados)
+-preço: 99,99 €
+-negociavel: false
+ -zona: Olivais - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/suportes-para-volante-pedais-para-sim-racing-novos-embalados-IDG77Di.html
+
+nome:Consola Nintendo 2DS versão Pokémon Alpha
+-preço: 60 €
+-negociavel: false
+ -zona: Lisboa - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-nintendo-2ds-verso-pokmon-alpha-IDI2JIA.html
+
+nome:Volantes Logitech G29, G920 e Shifter - NOVOS e USADOS
+-preço: 159,90 €
+-negociavel: false
+ -zona: Olivais - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/volantes-logitech-g29-g920-e-shifter-novos-e-usados-IDFApVM.html
+
+nome:Teclado Gaming | Razer Cynosa Chroma
+-preço: 30 €Negociável
+-negociavel: true
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/teclado-gaming-razer-cynosa-chroma-IDHZJvo.html
+
+nome:Trust Thado - Teclado gamer compacto [Novo]
+-preço: 17 €Negociável
+-negociavel: true
+ -zona: Alhos Vedros - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/trust-thado-teclado-gamer-compacto-novo-IDHQxmd.html
+
+nome:||NOVO|| Comando Nintendo switch pro
+-preço: 39,99 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/novo-comando-nintendo-switch-pro-IDHKzqv.html
+
+nome:Resident Evil 1 2 3 - PS1
+-preço: 350 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/resident-evil-1-2-3-ps1-IDHY5BI.html
+
+nome:Comando Playstation 2 c/ fios - NOVO/SELADO
+-preço: 10 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/comando-playstation-2-c-fios-novo-selado-IDGRCQj.html
+
+nome:Acwssorio para comando Wii novo e embalado
+-preço: 2 €
+-negociavel: false
+ -zona: Amora - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/acwssorio-para-comando-wii-novo-e-embalado-IDHtQjL.html
+
+nome:Vendo Jogo de PS4 (Ratchet e Clank)
+-preço: 15 €Negociável
+-negociavel: true
+ -zona: Quinta do Conde - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/vendo-jogo-de-ps4-ratchet-e-clank-IDHCgh2.html
+
+nome:Tales of xillia 2 edição de colecionador
+-preço: 200 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/tales-of-xillia-2-edio-de-colecionador-IDHnROy.html
+
+nome:comando para Sony PlayStation 3 PS3 Afterglow
+-preço: 15 €Negociável
+-negociavel: true
+ -zona: Areeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/comando-para-sony-playstation-3-ps3-afterglow-IDI2Jyw.html
+
+nome:PS3 - Ferrari Challenge
+-preço: 10 €
+-negociavel: false
+ -zona: Moscavide E Portela - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps3-ferrari-challenge-IDBJDUd.html
+
+nome:Steamdeck ainda na garantia. Expansão de 1 TB (corsair)
+-preço: 470 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/steamdeck-ainda-na-garantia-expanso-de-1-tb-corsair-IDI2Jws.html
+
+nome:Sega Game Gear Lupa
+-preço: 20 €
+-negociavel: false
+ -zona: Moita - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/sega-game-gear-lupa-IDHhgH3.html
+
+nome:PS4 nova 1TB+1 jogo selado
+-preço: 250 €
+-negociavel: false
+ -zona: Avenidas Novas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-nova-1tb-1-jogo-selado-IDI2Jnw.html
+
+nome:Psvita Slim desbloqueada
+-preço: 120 €Negociável
+-negociavel: true
+ -zona: Laranjeiro E Feijó - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/psvita-slim-desbloqueada-IDI2Jh5.html
+
+nome:Jogos PSP (Lista e Preços na Descrição)
+-preço: 4 €
+-negociavel: false
+ -zona: Fernão Ferro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-psp-lista-e-preos-na-descrio-IDHtA3U.html
+
+nome:!!NOVO!! Comandos para a ps4 dualshock 4
+-preço: 29,99 €
+-negociavel: false
+ -zona: Parque das Nações - 11 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/novo-comandos-para-a-ps4-dualshock-4-IDHvJV2.html
+
+nome:Consola Jogos Portátil com 400 Jogos Retro
+-preço: 17,50 €
+-negociavel: false
+ -zona: Alvalade - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-jogos-porttil-com-400-jogos-retro-IDI1PGs.html
+
+nome:FIFA 23 para a PS4
+-preço: 30 €Negociável
+-negociavel: true
+ -zona: Barreiro E Lavradio - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/fifa-23-para-a-ps4-IDHZQEo.html
+
+nome:GEX Deep Cover Gecko Ps1
+-preço: 18 €
+-negociavel: false
+ -zona: São Domingos de Benfica - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/gex-deep-cover-gecko-ps1-IDGWjHk.html
+
+nome:Nintendo switch v2
+-preço: 250 €Negociável
+-negociavel: true
+ -zona: Pinhal Novo - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-switch-v2-IDHJxy6.html
+
+nome:Xbox one S, one terabyte + Jogo Red Dead Redemption II
+-preço: 180 €
+-negociavel: false
+ -zona: Palmela - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/xbox-one-s-one-terabyte-jogo-red-dead-redemption-ii-IDHQov8.html
+
+nome:187 RIDE OR DIE - Ps2
+-preço: 7 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/187-ride-or-die-ps2-IDH8u17.html
+
+nome:2 jogos cd rom em bom estado
+-preço: 2 €
+-negociavel: false
+ -zona: Campolide - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/2-jogos-cd-rom-em-bom-estado-IDHIbhP.html
+
+nome:PlayStation 4 Slim 1TB Preto
+-preço: 260 €Negociável
+-negociavel: true
+ -zona: Quinta do Anjo - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-4-slim-1tb-preto-IDHKYpb.html
+
+nome:Jogos Nintendo Switch
+-preço: 30 €
+-negociavel: false
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-nintendo-switch-IDHYOZj.html
+
+nome:Videjogos ps vita (à unidade)
+-preço: 15 €Negociável
+-negociavel: true
+ -zona: São Vicente - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/videjogos-ps-vita-unidade-IDI2J3J.html
+
+nome:Jogos ps4, minecraft e sonic
+-preço: 14 €
+-negociavel: false
+ -zona: Sacavém E Prior Velho - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-ps4-minecraft-e-sonic-IDI2J23.html
+
+nome:Crash Bandicoot switch
+-preço: 26 €Negociável
+-negociavel: true
+ -zona: Sacavém E Prior Velho - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/crash-bandicoot-switch-IDI2J1x.html
+
+nome:Luigi Mansion 3 switch.
+-preço: 30 €Negociável
+-negociavel: true
+ -zona: Sacavém E Prior Velho - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/luigi-mansion-3-switch-IDI2J12.html
+
+nome:Consola Jogos Portátil com 400 Jogos Retro
+-preço: 17,50 €
+-negociavel: false
+ -zona: Alvalade - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-jogos-porttil-com-400-jogos-retro-IDI1PGs.html
+
+nome:PS4 Pro 1Tb + 2 comandos
+-preço: 200 €.css-1vxklie{color:#7F9799;font-size:12px;line-height:16px;font-weight:100;display:block;width:100%;text-align:right;}Negociável
+-negociavel: true
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-pro-1tb-2-comandos-IDI2i99.html
+
+nome:Jogo FIFA 20 - PS4
+-preço: 5 €
+-negociavel: false
+ -zona: Alcochete - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-fifa-20-ps4-IDHKYk2.html
+
+nome:Consola retro 10000 jogos
+-preço: 30 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-retro-10000-jogos-IDHZQCi.html
+
+nome:Ps4 Slim de 1 TB - Comando Sony - 3 Jogos
+-preço: 170 €
+-negociavel: false
+ -zona: Amora - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-slim-de-1-tb-comando-sony-3-jogos-IDHhBYW.html
+
+nome:Auscultadores BT Razer Kraken Kitty Edition
+-preço: 70 €
+-negociavel: false
+ -zona: Quinta do Conde - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/auscultadores-bt-razer-kraken-kitty-edition-IDHVGu8.html
+
+nome:Jogo God of War, para Playstation 2 PS2
+-preço: 20 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-god-of-war-para-playstation-2-ps2-IDBJ2A5.html
+
+nome:Retro Arcade 7777 jogos - totalmente restaurada
+-preço: .css-1c0ed4l{display:inline-block;}.css-1ojrdd5{height:24px;width:24px;margin-right:8px;color:#002F34;}1.500 €
+-negociavel: false
+ -zona: Pinhal Novo - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/retro-arcade-7777-jogos-totalmente-restaurada-IDI1ZiJ.html
+
+nome:Nitendo switch com acessorios
+-preço: 200 €Negociável
+-negociavel: true
+ -zona: Barreiro E Lavradio - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nitendo-switch-com-acessorios-IDI2ITI.html
+
+nome:Volante Thrustmaster Ferrari 458 Spider Racing Xbox One / Xbox Series
+-preço: 60 €
+-negociavel: false
+ -zona: Laranjeiro E Feijó - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/volante-thrustmaster-ferrari-458-spider-racing-xbox-one-xbox-series-IDHZPYw.html
+
+nome:Vendo ps4 usada por ter comprado uma ps5
+-preço: 200 €Negociável
+-negociavel: true
+ -zona: Fernão Ferro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/vendo-ps4-usada-por-ter-comprado-uma-ps5-IDHFt6M.html
+
+nome:Jogos Nintendo Wii (Lista e Preços na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-nintendo-wii-lista-e-preos-na-descrio-IDHlXNS.html
+
+nome:Jogo PC The Mark
+-preço: 5 €
+-negociavel: false
+ -zona: Olivais - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-pc-the-mark-IDGnuF8.html
+
+nome:Jogos So CD de Várias Consolas (Lista e Preços na Descrição)
+-preço: 2 €
+-negociavel: false
+ -zona: Fernão Ferro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-so-cd-de-vrias-consolas-lista-e-preos-na-descrio-IDI1T8f.html
+
+nome:Acessórios para Gaming
+-preço: 250 €
+-negociavel: false
+ -zona: Quinta do Conde - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/acessrios-para-gaming-IDHVGl7.html
+
+nome:Logitech g29 + shifter + cockpit
+-preço: 200 €
+-negociavel: false
+ -zona: Amora - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/logitech-g29-shifter-cockpit-IDHZPVd.html
+
+nome:Capa Comando PlayStation 5 Novo
+-preço: 7 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/capa-comando-playstation-5-novo-IDGfZlt.html
+
+nome:Xbox one X 1TB SSD
+-preço: 150 €Negociável
+-negociavel: true
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/xbox-one-x-1tb-ssd-IDI1PSs.html
+
+nome:Robocop: Rogue City PS5 como novo
+-preço: 40 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/robocop-rogue-city-ps5-como-novo-IDI2IKA.html
+
+nome:PlayStation 4 preta
+-preço: 50 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-4-preta-IDHPWH1.html
+
+nome:xBox - Series X 1TB + Forza 5
+-preço: 350 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/xbox-series-x-1tb-forza-5-IDI2IOs.html
+
+nome:Comando Ps4 para arranjo ou peças
+-preço: 10 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/comando-ps4-para-arranjo-ou-peas-IDHVEVE.html
+
+nome:Redakai – Conquer the Kairu
+-preço: 10 €Negociável
+-negociavel: true
+ -zona: Amora - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/redakai-conquer-the-kairu-IDHFsYP.html
+
+nome:Volante Ferrari Thrustmaster Playstation 2
+-preço: 10 €
+-negociavel: false
+ -zona: Pinhal Novo - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/volante-ferrari-thrustmaster-playstation-2-IDHVDpq.html
+
+nome:Jogos PS3 Valores e Lista na Descrição
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-ps3-valores-e-lista-na-descrio-IDI1XoI.html
+
+nome:Jogo psp GTA vice city
+-preço: 7 €
+-negociavel: false
+ -zona: Campo De Ourique - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-psp-gta-vice-city-IDHZ0Ix.html
+
+nome:NBA live 96 - jogo PlayStation 1 / Ps1
+-preço: 25 €
+-negociavel: false
+ -zona: Olivais - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nba-live-96-jogo-playstation-1-ps1-IDI2IG1.html
+
+nome:Jogos PS2 (Lista e Preços na descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Fernão Ferro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-ps2-lista-e-preos-na-descrio-IDHpLyK.html
+
+nome:Total War Troy Jogo PC Edição Limitada Novo em folha e Selado
+-preço: 30 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/total-war-troy-jogo-pc-edio-limitada-novo-em-folha-e-selado-IDI2ICr.html
+
+nome:Jogos PS1 PlayStation vários jogos
+-preço: 15 €
+-negociavel: false
+ -zona: Olivais - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-ps1-playstation-vrios-jogos-IDHtJ1s.html
+
+nome:Xbox one S, one terabyte + Jogo Red Dead Redemption II
+-preço: 180 €
+-negociavel: false
+ -zona: Palmela - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/xbox-one-s-one-terabyte-jogo-red-dead-redemption-ii-IDHQov8.html
+
+nome:Playstation 3 avariada para oferta
+-preço: 1 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-3-avariada-para-oferta-IDI2IvZ.html
+
+nome:Jogos ps4 ufc2 nba2k19
+-preço: 10 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-ps4-ufc2-nba2k19-IDH3Dto.html
+
+nome:Auscultadores headset Gaming com Fio HYPERX Cloud II
+-preço: 50 €
+-negociavel: false
+ -zona: Moscavide E Portela - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/auscultadores-headset-gaming-com-fio-hyperx-cloud-ii-IDHVG5P.html
+
+nome:Ps4 Slim dourada 1 terabyte + comando
+-preço: 140 €
+-negociavel: false
+ -zona: Palmela - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-slim-dourada-1-terabyte-comando-IDI2IC4.html
+
+nome:Disney Infinity Wii + Portal
+-preço: 50 €
+-negociavel: false
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/disney-infinity-wii-portal-IDCTaF9.html
+
+nome:Bonecos Disney Infinity- Wii
+-preço: 20 €
+-negociavel: false
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/bonecos-disney-infinity-wii-IDCTaH3.html
+
+nome:Playstation 3 avariada OFERTA
+-preço: 1 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-3-avariada-oferta-IDI2I8b.html
+
+nome:Playstation 5 nova (versão de disco), SELADA, GARANTIA COMPLETA 2 ANOS
+-preço: 430 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-5-nova-verso-de-disco-selada-garantia-completa-2-anos-IDI2EUD.html
+
+nome:Nintendo Game Boy Gameboy Color + Oferta 1 jogo Spiderman
+-preço: 140 €Negociável
+-negociavel: true
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-game-boy-gameboy-color-oferta-1-jogo-spiderman-IDHgSba.html
+
+nome:buscar jogos commando 2 ps2 español o portugues
+-preço: Troca
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/buscar-jogos-commando-2-ps2-espaol-o-portugues-IDI2IwX.html
+
+nome:Jogo PS4 GT Gran Turismo Sport como novo
+-preço: 9 €
+-negociavel: false
+ -zona: Campo De Ourique - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-ps4-gt-gran-turismo-sport-como-novo-IDI2Iwz.html
+
+nome:Jogo Evolution GT - Nintendo DS
+-preço: 10 €
+-negociavel: false
+ -zona: Avenidas Novas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-evolution-gt-nintendo-ds-IDFBZXl.html
+
+nome:Jogos PS3 (Lista e Valores na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-ps3-lista-e-valores-na-descrio-IDHCYPe.html
+
+nome:Alpha gamer. Caderia de computador
+-preço: 99 €
+-negociavel: false
+ -zona: Penha De França - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/alpha-gamer-caderia-de-computador-IDI2p7s.html
+
+nome:The impatient ps vr
+-preço: 10 €
+-negociavel: false
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/the-impatient-ps-vr-IDHQtzK.html
+
+nome:xbox 360 kinecT + JOGOS
+-preço: 110 €
+-negociavel: false
+ -zona: Quinta do Conde - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/xbox-360-kinect-jogos-IDHVG37.html
+
+nome:Meta Quest 2 100% funcional
+-preço: 250 €Negociável
+-negociavel: true
+ -zona: Penha De França - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/meta-quest-2-100-funcional-IDI2Ipf.html
+
+nome:Vendo Mass Effect Legendary Edition ps4
+-preço: 25 €Negociável
+-negociavel: true
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/vendo-mass-effect-legendary-edition-ps4-IDHvlEG.html
+
+nome:Watch dogs Legion PS4
+-preço: 30 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/watch-dogs-legion-ps4-IDHKXA5.html
+
+nome:Jogos Playstation 4
+-preço: 12,50 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-playstation-4-IDI2IoU.html
+
+nome:Vendo jogos de PS1
+-preço: 45 €
+-negociavel: false
+ -zona: Beato - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/vendo-jogos-de-ps1-IDHThIe.html
+
+nome:Consola Jogos Portátil com 400 Jogos Retro
+-preço: 17,50 €
+-negociavel: false
+ -zona: Alvalade - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-jogos-porttil-com-400-jogos-retro-IDI1PGs.html
+
+nome:Consola retro 10000 jogos
+-preço: 30 €
+-negociavel: false
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-retro-10000-jogos-IDHZQCi.html
+
+nome:dj hero (só cd nunca aberto)
+-preço: Troca
+-negociavel: false
+ -zona: Santa Maria Maior - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/dj-hero-s-cd-nunca-aberto-IDG1p8R.html
+
+nome:Vendo jogos de PS1
+-preço: 45 €
+-negociavel: false
+ -zona: Beato - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/vendo-jogos-de-ps1-IDHThIe.html
+
+nome:Comando PS3 - novo/selado
+-preço: 20 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 10 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/comando-ps3-novo-selado-IDH1E6j.html
+
+nome:Contra nintendo switch
+-preço: Troca
+-negociavel: false
+ -zona: Santa Maria Maior - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/contra-nintendo-switch-IDHxp16.html
+
+nome:Jogos para PC lote de 4.
+-preço: .css-1c0ed4l{display:inline-block;}.css-1ojrdd5{height:24px;width:24px;margin-right:8px;color:#002F34;}12 €
+-negociavel: false
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-para-pc-lote-de-4-IDHZqd7.html
+
+nome:Jogos 5 xbox +1 Pc
+-preço: 30 €
+-negociavel: false
+ -zona: Palmela - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-5-xbox-1-pc-IDHIafL.html
+
+nome:Jogo F1 2021 PS5
+-preço: 15 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-f1-2021-ps5-IDI2IhO.html
+
+nome:Jogo FIFA 2022 PS5
+-preço: 15 €
+-negociavel: false
+ -zona: Lumiar - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-fifa-2022-ps5-IDI2IgT.html
+
+nome:Wii U + GamePad + Comando Wii + 4 jogos de oferta
+-preço: 110 €.css-1vxklie{color:#7F9799;font-size:12px;line-height:16px;font-weight:100;display:block;width:100%;text-align:right;}Negociável
+-negociavel: true
+ -zona: Santa Clara - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/wii-u-gamepad-comando-wii-4-jogos-de-oferta-IDHThCe.html
+
+nome:Jogos Nintendo Game Boy Color
+-preço: 15 €Negociável
+-negociavel: true
+ -zona: Barreiro E Lavradio - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-nintendo-game-boy-color-IDHVFHn.html
+
+nome:Jogos XBOX 360 (Lista e Preços na Descrição)
+-preço: 5 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-xbox-360-lista-e-preos-na-descrio-IDHlXOR.html
+
+nome:Teclado Gaming | Razer Cynosa Chroma
+-preço: 30 €Negociável
+-negociavel: true
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/teclado-gaming-razer-cynosa-chroma-IDHZJvo.html
+
+nome:Consola Sup Com Comando  Nova
+-preço: 20 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-sup-com-comando-nova-IDHtNN4.html
+
+nome:Nintendo Switch com todos os acessórios
+-preço: 200 €
+-negociavel: false
+ -zona: Quinta do Conde - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-switch-com-todos-os-acessrios-IDI1Woz.html
+
+nome:Pokemon Scarlet Nintendo Switch
+-preço: 35 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/pokemon-scarlet-nintendo-switch-IDHZJHI.html
+
+nome:Consola Sup Com Comando Nova
+-preço: 20 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-sup-com-comando-nova-IDHtNRm.html
+
+nome:Consola Sup Nova
+-preço: 15 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-sup-nova-IDHtO9R.html
+
+nome:Consola Sup  NOVA
+-preço: 20 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-sup-nova-IDHtNQO.html
+
+nome:Ps4 1TB BEM ESTIMADA + 9 Jogos
+-preço: 250 €
+-negociavel: false
+ -zona: Alto Do Seixalinho, Santo André E Verderena - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-1tb-bem-estimada-9-jogos-IDHR9S6.html
+
+nome:Consola Sup Nova
+-preço: 15 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-sup-nova-IDHtO7H.html
+
+nome:Thrustmaster T150
+-preço: 100 €
+-negociavel: false
+ -zona: Santa Clara - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/thrustmaster-t150-IDHsi2f.html
+
+nome:PS2 Sims Bustin out
+-preço: 5 €
+-negociavel: false
+ -zona: Alhos Vedros - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps2-sims-bustin-out-IDHKRDf.html
+
+nome:PS2 jogo Hannah Montana
+-preço: 5 €
+-negociavel: false
+ -zona: Alhos Vedros - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps2-jogo-hannah-montana-IDHKRDp.html
+
+nome:Comando Playstation 2 c/ fios - NOVO/SELADO
+-preço: 10 €
+-negociavel: false
+ -zona: Montijo E Afonsoeiro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/comando-playstation-2-c-fios-novo-selado-IDGRCQj.html
+
+nome:Wii's como Novas (+Packs e Jogos)
+-preço: 25 €Negociável
+-negociavel: true
+ -zona: Lumiar - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/wiis-como-novas-packs-e-jogos-IDHCawq.html
+
+nome:Jogos PSP (Lista e Preços na Descrição)
+-preço: 4 €
+-negociavel: false
+ -zona: Fernão Ferro - 12 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogos-psp-lista-e-preos-na-descrio-IDHtA3U.html
+
+nome:Consola Retro de 11 Simuladores
+-preço: 36 €
+-negociavel: false
+ -zona: São Sebastião - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-retro-de-11-simuladores-IDI2I22.html
+
+nome:PlayStation 4 com comando
+-preço: 115 €
+-negociavel: false
+ -zona: Baixa Da Banheira E Vale Da Amoreira - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/playstation-4-com-comando-IDHIa6D.html
+
+nome:Estação De Carga NYKO Nintendo WII
+-preço: 8 €
+-negociavel: false
+ -zona: Seixal, Arrentela E Aldeia De Paio Pires - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/estao-de-carga-nyko-nintendo-wii-IDHVFtU.html
+
+nome:PS2 Sing it karaoke
+-preço: 5 €
+-negociavel: false
+ -zona: Alhos Vedros - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps2-sing-it-karaoke-IDHKRD0.html
+
+nome:Jogo PS4 FIFA 17
+-preço: 10 €
+-negociavel: false
+ -zona: Barreiro E Lavradio - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-ps4-fifa-17-IDAYdzJ.html
+
+nome:Consola Nintendo Switch Oled
+-preço: 260 €
+-negociavel: false
+ -zona: Lisboa - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-nintendo-switch-oled-IDI2I1X.html
+
+nome:Fifa 22 - Jogo Ps4
+-preço: 10 €
+-negociavel: false
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/fifa-22-jogo-ps4-IDI2I13.html
+
+nome:Jogo ps3 NBA 2K7
+-preço: 10 €
+-negociavel: false
+ -zona: Barreiro E Lavradio - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-ps3-nba-2k7-IDCIpUB.html
+
+nome:Suikoden V e shadow hearts covenant ps2
+-preço: 50 €
+-negociavel: false
+ -zona: Sado - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/suikoden-v-e-shadow-hearts-covenant-ps2-IDI2I0s.html
+
+nome:Fifa 21 - Jogo Ps4
+-preço: 7,50 €Negociável
+-negociavel: true
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/fifa-21-jogo-ps4-IDI2I1t.html
+
+nome:Resident Evil 1 2 3 - PS1
+-preço: 350 €
+-negociavel: false
+ -zona: Almada, Cova Da Piedade, Pragal E Cacilhas - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/resident-evil-1-2-3-ps1-IDHY5BI.html
+
+nome:Ps4 1TB BEM ESTIMADA + 9 Jogos
+-preço: 250 €
+-negociavel: false
+ -zona: Alto Do Seixalinho, Santo André E Verderena - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-1tb-bem-estimada-9-jogos-IDHR9S6.html
+
+nome:Alpha gamer. Caderia de computador
+-preço: 99 €
+-negociavel: false
+ -zona: Penha De França - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/alpha-gamer-caderia-de-computador-IDI2p7s.html
+
+nome:Fifa 23 - Jogo Ps4
+-preço: 15 €
+-negociavel: false
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/fifa-23-jogo-ps4-IDI2I0J.html
+
+nome:NBA 2K24 - Jogo PS5
+-preço: 40 €
+-negociavel: false
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nba-2k24-jogo-ps5-IDI2HZk.html
+
+nome:Nintendo Switch OLED + HORI Split Pad Pro
+-preço: 280 €
+-negociavel: false
+ -zona: São Domingos de Benfica - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nintendo-switch-oled-hori-split-pad-pro-IDHKVMJ.html
+
+nome:NBA2K23 - Jogo Ps4
+-preço: 15 €
+-negociavel: false
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/nba2k23-jogo-ps4-IDI2I0a.html
+
+nome:Consola Super Retro Trio
+-preço: 100 €
+-negociavel: false
+ -zona: Gâmbia-Pontes-Alto Guerra - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/consola-super-retro-trio-IDHIa1f.html
+
+nome:Ps4 fat em ótimo estado
+-preço: 150 €Negociável
+-negociavel: true
+ -zona: Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-fat-em-timo-estado-IDHKVLm.html
+
+nome:Jogo PC Hotel Giant 2
+-preço: 5 €
+-negociavel: false
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-pc-hotel-giant-2-IDDqHlq.html
+
+nome:PS4 playstation 4 suporte Vertical e outros
+-preço: 6 €Negociável
+-negociavel: true
+ -zona: Parque das Nações - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ps4-playstation-4-suporte-vertical-e-outros-IDFB5Ww.html
+
+nome:Ratchet e Clank PS4
+-preço: 12 €
+-negociavel: false
+ -zona: Santa Clara - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/ratchet-e-clank-ps4-IDGEkdm.html
+
+nome:Jogo PC Pacific Warriors 2
+-preço: 3,50 €
+-negociavel: false
+ -zona: Alvalade - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-pc-pacific-warriors-2-IDDqHhM.html
+
+nome:Jogo Death stranding
+-preço: 25 €
+-negociavel: false
+ -zona: Estrela - 13 de novembro de 2023 
+-link: https://www.olx.pt//d/anuncio/jogo-death-stranding-IDGZJpf.html
+
