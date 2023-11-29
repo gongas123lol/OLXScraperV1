@@ -1,0 +1,27 @@
+const fs = require('fs');
+
+function convertTxtToCsv(txtFilePath, csvFilePath) {
+    // Read the content of the text file
+    const data = fs.readFileSync(txtFilePath, 'utf8');
+
+    // Split the text into individual items
+    const items = data.split('\n\n');
+
+    // Create the CSV content
+    const csvContent = 'nome;;preço;;negociavel;;zona;;link\n' +
+        items.map(item => {
+            const lines = item.split('\n');
+            return lines.slice(0, lines.length - 1).join(';;') + '\n';
+        }).join('');
+
+    // Write the CSV content to a file
+    fs.writeFileSync(csvFilePath, csvContent);
+
+    console.log('Conversion successful. CSV file created:', csvFilePath);
+}
+
+
+// Example usage
+const txtFilePath = 'cameras.txt'; // replace with your text file path
+const csvFilePath = 'cameras.csv'; // replace with your desired CSV file path
+convertTxtToCsv(txtFilePath, csvFilePath);
