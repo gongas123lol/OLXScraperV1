@@ -2,10 +2,23 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 var fs2 = require('fs');
-async function main() {
-    let url = 'https://www.olx.pt/tecnologia-e-informatica/videojogos-consolas/moita-setubal/?search%5Bdist%5D=15&page=';
+main();
+async function main(){
+    console.log("Tecnologia e informática-consolas, Moita + 15KM");
+    let url = 'https://www.olx.pt/tecnologia-e-informatica/videojogos-consolas/consolas/moita-setubal/?search%5Bdist%5D=15&search%5Border%5D=filter_float_price:asc&page=';
+    await findIt(url, "consolas.txt");
 
-    fs2.unlink('data.txt', function (err) {
+    console.log("Tecnologia e informática-cameras e objetivas, Moita + 15KM");
+    let url2 = "https://www.olx.pt/tecnologia-e-informatica/fotografia-tv-som/fotografia/moita-setubal/?search%5Bdist%5D=15&search%5Bfilter_enum_tipo%5D%5B0%5D=maquinas-fotograficas-reflex&search%5Bfilter_enum_tipo%5D%5B1%5D=maquinas-fotograficas&search%5Bfilter_enum_tipo%5D%5B2%5D=objectivas&page=";
+   await findIt(url2,"cameras.txt")
+    console.log("Done!");
+}
+async function findIt(url,path) {
+
+
+    //let url = 'https://www.olx.pt/tecnologia-e-informatica/videojogos-consolas/moita-setubal/?search%5Bdist%5D=15&page=';
+
+    fs2.unlink(path, function (err) {
         if (err) console.log("bruh");
         console.log('File deleted!');
     });
@@ -17,7 +30,7 @@ async function main() {
             const lines = htmlContent.split('\n');
 
             let data = extractInfoFromAd(htmlContent);
-            writeToFile(data,"data.txt")
+            writeToFile(data,path)
 
         } else {
             console.log('Failed to fetch website HTML content');
@@ -25,9 +38,6 @@ async function main() {
     }
 }
 
-
-main();
-console.log("done");
 
 
 
@@ -56,7 +66,7 @@ function extractInfoFromAd(htmlContent) { //given the HTML content of the webpag
         const priceElement = $(element).find('p[data-testid="ad-price"]');
         const price = priceElement.text().trim();
         const negotiable = priceElement.find('span').text().trim() === 'Negociável';
-
+        const description = $(element).find()
         const locationDate = $(element).find('p[data-testid="location-date"]').text().trim();
 
         // Extracting the link if available
@@ -73,8 +83,8 @@ function extractInfoFromAd(htmlContent) { //given the HTML content of the webpag
 async function writeToFile(data, path) {
 
     data.forEach(it => {
-        let cont = `nome:${it.name}\n-preço: ${it.price}\n-negociavel: ${it.negotiable}\n -zona: ${it.locationDate} \n-link: https://www.olx.pt/${it.link}\n\n`;
-        fs2.appendFile('data.txt', cont, function (err) {
+        let cont = `${it.name}\n ${it.price}\n ${it.negotiable}\n ${it.locationDate} \n https://www.olx.pt${it.link}\n\n`;
+        fs2.appendFile(path, cont, function (err) {
             if (err) throw err;
         });
     });
