@@ -9,4 +9,7 @@ must install Cheerio and axios in order to run it!
 npm install cheerio
 npm install axios
 
+Update: Now you can generate .CSV files. You can import them into EXCEL by clicking Data-> get data-> text/csv, and seting the separator as ";;".
+
+
 
